@@ -7,6 +7,7 @@ Min personliga loggbok för app-shipping.
 ## Struktur
 
 ```
+├── GUIDE.md          # Komplett guide (steg-för-steg)
 ├── ROADMAP.md        # Samlade lärdomar + flöde
 ├── journal/          # Vecko-/dagloggar
 ├── templates/        # BACKLOG + CHANGELOG mallar
@@ -14,12 +15,11 @@ Min personliga loggbok för app-shipping.
 └── docs/screenshots/ # Evidence
 ```
 
-## Hur du använder
+## Snabblänkar
 
-- **Lärdomar** → `ROADMAP.md`
-- **Dagbok** → `journal/YYYY-MM-DD-titel.md`
-- **Mallar** → `templates/`
-- **Screenshots** → `docs/screenshots/YYYY-MM-DD-area-desc.png`
+- **[GUIDE.md](GUIDE.md)** — Komplett guide för att shippa appar
+- **[ROADMAP.md](ROADMAP.md)** — Lärdomar + metrics + process
+- **[journal/](journal/)** — Dagbok
 
 ---
 
