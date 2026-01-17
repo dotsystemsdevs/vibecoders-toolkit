@@ -1,15 +1,13 @@
 # Prompts
 
-A small set of prompts I use to keep my process consistent (repo setup, journaling, backlog, changelog).
+Prompts jag använder för att hålla repot konsekvent.
 
-## Rules
-- Do not invent numbers, events, or claims.
-- If I paste messy notes: rewrite them into clean, technical, concise text without changing meaning.
-- If anything is unclear: ask questions before writing final content.
+## Regler
+- Inga påhittade siffror eller events
+- Renskriver råa anteckningar utan att ändra betydelse
+- Fråga om något är oklart
 
 ## Index
-- Repo setup: `repo-setup.md`
-- Rewrite notes: `rewrite-notes.md`
-- Backlog: `backlog.md`
-- Changelog: `changelog.md`
-- Weekly summary: `weekly-summary.md`
+- `rewrite-notes.md` — renskriva journal
+- `backlog.md` — generera BACKLOG.md
+- `changelog.md` — generera CHANGELOG.md
