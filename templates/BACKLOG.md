@@ -17,7 +17,7 @@ Screenshots: `docs/screenshots/YYYY-MM-DD-area-desc.png`
 | **Evidence** | `docs/screenshots/YYYY-MM-DD-area-desc.png` / N/A |
 
 **Description**
-En mening.
+One sentence.
 
 **Next steps**
 - [ ] Verb + action

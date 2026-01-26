@@ -1,13 +1,15 @@
 # Prompts
 
-Prompts jag använder för att hålla repot konsekvent.
+Prompts to keep the repo consistent.
 
-## Regler
-- Inga påhittade siffror eller events
-- Renskriver råa anteckningar utan att ändra betydelse
-- Fråga om något är oklart
+## Rules
+
+- No made-up numbers or events
+- Clean up raw notes without changing meaning
+- Ask if something is unclear
 
 ## Index
-- `rewrite-notes.md` — renskriva journal
-- `backlog.md` — generera BACKLOG.md
-- `changelog.md` — generera CHANGELOG.md
+
+- `backlog.md` — generate BACKLOG.md
+- `changelog.md` — generate CHANGELOG.md
+- `rewrite-notes.md` — rewrite notes into GUIDE.md
