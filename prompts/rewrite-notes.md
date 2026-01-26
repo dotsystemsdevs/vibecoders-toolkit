@@ -8,13 +8,13 @@ RULES
 - If something is ambiguous, ask before finalizing.
 
 TARGET FILE
-- GUIDE.md (all learnings go here)
+- ROADMAP.md (all learnings go here)
 
 FORMAT
 Use tables with columns: Observation | Action
 Or: Mistake | What happened | Action
 
 OUTPUT
-1) Propose where in GUIDE.md the content belongs.
+1) Propose where in ROADMAP.md the content belongs.
 2) Return the content, ready to paste into repo.
 ```

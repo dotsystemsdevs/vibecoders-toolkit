@@ -7,7 +7,7 @@ A practical guide to shipping apps to closed testing and getting feedback.
 ## Structure
 
 ```
-├── GUIDE.md          # Complete guide (everything in one file)
+├── ROADMAP.md        # Complete guide (everything in one file)
 ├── templates/        # BACKLOG + CHANGELOG templates
 ├── prompts/          # AI prompts
 └── docs/screenshots/ # Evidence
@@ -15,7 +15,7 @@ A practical guide to shipping apps to closed testing and getting feedback.
 
 ## Quick link
 
-**[GUIDE.md](GUIDE.md)** — Complete guide
+**[ROADMAP.md](ROADMAP.md)** — Complete guide
 
 ---
 
