@@ -3,51 +3,343 @@
 **Goal:** Test what works. Track engagement. Adjust after 1 week.
 
 **Time budget:** 1+ hour/day
-**Start date:** 2025-02-04 (Tuesday evening)
-**Evaluation:** 2025-02-11 (Tuesday)
+**Start date:** 2025-02-05 (Wednesday)
+**Evaluation:** 2025-02-12 (Wednesday)
 
 ---
 
-## Account Overview
+## Launch Plan - Daily Actions
 
-| Account | Followers | Target | Vibe |
-|---------|-----------|--------|------|
-| Mulligan | ~6 | Casual golfers | Sarcastic roasts |
-| Slothy | ~6 | Anyone who struggles with productivity | Lazy sloth energy |
-| Dev | 600 (inactive) | Indie hackers | Behind the scenes |
+### DAY 0: IDAG (4 feb) - PREP
+- [ ] **Fix bios** för alla 3 konton (name field + bio + category)
+- [ ] **Research:** Spara 9 virala reels per nisch (< 3 månader gamla)
+  - [ ] Slothy: 9 productivity/todo reels
+  - [ ] Mulligan: 9 golf reels
+  - [ ] Dev: 9 indie hacker/maker reels
+- [ ] **Analysera sparade reels:** Notera hook, format, längd
+- [ ] **Planera första 9 posts** per konto (baserat på research)
 
-### Bio Templates
+---
 
-**Mulligan:**
+### DAY 1: IMORGON (5 feb) - FIRST POST
+- [ ] **Skapa content** för dag 1-3 (batch)
+- [ ] **Posta första reel** på varje konto (21:00 svensk tid)
+- [ ] **Engagera** 20 min efter post (5-3-1 regel)
+- [ ] **Tracka:** Notera views efter 1h och 24h
+
+---
+
+### DAY 2-7: DAILY ROUTINE
+Varje dag:
+- [ ] Posta enligt schema (se Content Calendar)
+- [ ] 5-3-1 engagement per konto
+- [ ] Svara på kommentarer
+- [ ] Notera metrics i spreadsheet
+
+---
+
+### DAY 8 (12 feb) - EVALUATION
+- [ ] Analysera alla 9 posts per konto
+- [ ] Hitta winner (bäst watch time + shares)
+- [ ] Dra slutsatser om flops
+- [ ] Planera Week 2 (double down på winners)
+
+---
+
+## Quick Reference - Vad ska göras?
+
+| Dag | Datum | Focus |
+|-----|-------|-------|
+| 0 | 4 feb | Prep: bios, research, spara reels |
+| 1 | 5 feb | First post + engagement |
+| 2-7 | 6-11 feb | Daily posting + engagement |
+| 8 | 12 feb | Analyze + plan week 2 |
+
+---
+
+## Instagram Branding Rules
+
+### ig2vec: How Instagram Groups You
+
+Instagram uses **account embeddings** (ig2vec) to figure out what type of account you are. It looks at:
+- What accounts you interact with
+- What accounts interact with you
+- What content you post
+
+**Action:** Stay in ONE topic so Instagram can properly categorize and recommend your account.
+
+### One Topic Per Account
+
+> "Pick one clear niche. Instagram can't recommend you if it doesn't know what you are."
+
+| BAD | GOOD |
+|-----|------|
+| Posts about golf, cooking, and cats | Only posts about golf |
+| Random mix of topics | Consistent theme |
+| Algorithm confused | Algorithm knows who to show you to |
+
+### Bio Formula
+
+Your bio has 3 parts:
+
+| Part | Purpose | Example |
+|------|---------|---------|
+| **Clear Bio** | What you do / who you are | "bad at golf, good at excuses" |
+| **Category** | Type of content (set in settings) | App, Gaming, Personal Blog |
+| **Call-to-Action** | Where to go / what to do | "Track your rounds 👇" |
+
+### Nameplate = Most Searchable
+
+Your **Name field** (not username) is searchable. Include keywords people actually search for.
+
+| Account | Name Field Should Be |
+|---------|---------------------|
+| Slothy | "Slothy · Todo List App" |
+| Mulligan | "Mulligan · Golf Scorecard" |
+| Dev | "Dot · Indie App Dev" |
+
+### Set Your Category
+
+Go to: **Settings → Edit Profile → Category**
+
+| Account | Category to Set |
+|---------|-----------------|
+| Slothy | App |
+| Mulligan | App |
+| Dev | App / Personal Blog |
+
+---
+
+___________________________________________________________
+
+## SLOTHY (@slothy_app)
+
+**Current:** 9 followers, 4 posts
+
+**Target:** Anyone who struggles with productivity
+
+**Vibe:** Lazy sloth energy, no guilt, relatable procrastination humor
+
+### Bio
+
+**Name field:** `Slothy · Todo List App`
+
+**Bio:**
 ```
-🏌️ Sarcastic golf advice
-📱 Track your rounds (link below)
-🎯 For golfers who lose balls, not hope
+What you don't do today moves to tomorrow.
+No guilt. Offline. No login.
+Download 👇
 ```
 
-**Slothy:**
+**Category:** App
+
+| Part | ✅ |
+|------|---|
+| Clear Bio | "What you don't do today moves to tomorrow" |
+| Category | App (set in settings) |
+| Call-to-Action | "Download 👇" + link |
+
+✅ Bio follows the formula. Tagline is perfect.
+
+### Performance Data
+| Post | Type | Views |
+|------|------|-------|
+| "Task graveyard sponsored by 4 unused to-do apps" | Reel | 238 |
+| "Everything I said I'd do today.. moved to tomorrow" | Reel | 284 |
+| Logo post | Image | — |
+| "Simple daily task planning" (app screenshot) | Image | Lower |
+
+**Key insight:** Reels with meme format = 200-300 views on 9 followers. That's solid reach. App screenshots = less engagement.
+
+### What's Working
+- ✅ Meme reels get reach (238-284 views)
+- ✅ Relatable humor ("task graveyard", "moved to tomorrow")
+- ✅ Logo is memorable
+- ✅ Bio matches the content vibe
+
+### What to Adjust
+- ⚠️ Less app screenshots, more meme reels
+- ⚠️ The reel format is clearly winning — lean into it
+- ⚠️ Keep promotional content minimal (1x/week max)
+
+### Visual Style
+- **Colors:** Dark background, warm tones in memes
+- **Logo:** Simple black sloth with white eyes — cute and recognizable
+- **Content:** Meme templates with text overlay (Jimmy Fallon style works)
+
+### Content Voice
+- Lazy, unbothered, everything is exhausting
+- No guilt energy
+- Self-aware procrastinator
+
+**Examples:**
+- "Checked off one task. Nap time."
+- "The list can wait. The couch cannot."
+- "Productivity? In this economy?"
+
+### Strategy for Week 1
+**Focus on reels** — they're getting 25-30x your follower count in views. That's the algorithm working for you.
+
+| Priority | Content Type |
+|----------|--------------|
+| 1st | Meme reels (like task graveyard) |
+| 2nd | Relatable text posts |
+| 3rd | App screenshots (max 1x/week) |
+
+___________________________________________________________
+
+## MULLIGAN (@app_mulligan)
+
+**Current:** 4 followers, 10 posts
+
+**Target:** Casual golfers who lose balls
+
+**Vibe:** Sarcastic golf roasts, self-deprecating humor
+
+### Bio
+
+**Name field:** `Mulligan · Golf Scorecard`
+
+**Bio:**
 ```
-🦥 Your todo list's laziest friend
-✅ Productivity tips from someone who naps
-📱 Simple todo app (link below)
+bad at golf, good at excuses
+tracking my rounds so i can prove it wasn't my fault
+Download the app 👇
 ```
 
-**Dev:**
+**Category:** App
+
+| Part | ✅ |
+|------|---|
+| Clear Bio | "bad at golf, good at excuses" |
+| Category | App (set in settings) |
+| Call-to-Action | "Download the app 👇" + link |
+
+✅ Matches the sarcastic Mulligan Advice voice.
+
+### Performance Data
+| Post | Type | Views |
+|------|------|-------|
+| Golf ball close-up (pure visual) | Reel | **190** |
+| "Missing 36 golfballs" | Reel | 44 |
+| "Golfing really bad" Vince McMahon meme | Reel | 40 |
+| "Woods hits six trees" | Reel | 37 |
+| Logo | Image | 36 |
+| "Send to someone who can't outdrive you" | Reel | 22 |
+
+**Key insight:** Simple golf visuals = 190 views. Text-heavy memes = 22-44 views. Pure visual wins.
+
+### What's Working
+- ✅ "Mulligan Advice" is a good signature format (consistent branding)
+- ✅ Visual style is consistent (green/white, golf course backgrounds)
+- ✅ The golf ball close-up reel crushed it (190 views)
+
+### What to Adjust
+- ⚠️ Bio needs personality — too feature-focused right now
+- ⚠️ Less text-heavy memes, more pure golf visuals
+- ⚠️ The 190-view post proves: beautiful golf content > meme text overlays
+- ⚠️ Try "Mulligan Advice" as video/reel instead of static image
+
+### Visual Style
+- **Colors:** Green + white (golf course vibes)
+- **Content:** Clean text on golf backgrounds, high-quality golf visuals
+- **Logo:** Golf ball head silhouette — clean and recognizable
+
+### Content Voice
+- Sarcastic "advice" that's really just coping
+- Self-deprecating weekend golfer energy
+- Blaming everything except yourself
+
+### Strategy for Week 1
+The 190-view post shows the path. Beautiful golf content gets reach.
+
+| Priority | Content Type |
+|----------|--------------|
+| 1st | Pure golf visuals (like the 190-view post) |
+| 2nd | Mulligan Advice (try as reels, not static) |
+| 3rd | Meme content (less text) |
+
+___________________________________________________________
+
+## DEV (@dotsystemsdevs)
+
+**Current:** 681 followers, 8 posts
+
+**Target:** Indie hackers, builders, makers
+
+**Vibe:** Build in public, real numbers, maker/dev hybrid
+
+### Bio
+
+**Name field:** `Dot · Indie App Dev`
+
+**Bio:**
 ```
-🚀 Shipping apps in public
-📊 Real numbers, no BS
-🔗 My playbook: [link]
+shipping apps, sharing numbers
+maker stuff + build in public
+free playbook 👇
 ```
 
-### Visual Identity
+**Category:** App / Personal Blog
 
-| Account | Style | Colors |
-|---------|-------|--------|
-| Mulligan | Golf course backgrounds, clean text | Green + white |
-| Slothy | Cozy/lazy vibes, soft tones | Warm beige/brown |
-| Dev | Dark mode, code aesthetic | Dark + accent color |
+| Part | ✅ |
+|------|---|
+| Clear Bio | "shipping apps, sharing numbers" |
+| Category | App or Personal Blog (set in settings) |
+| Call-to-Action | "free playbook 👇" + link to vibecoders toolkit |
 
-**Consistency tip:** Use the same font/style for your signature content (Mulligan Advice should always look the same).
+✅ Acknowledges both audiences (makers + app dev) and leads somewhere.
+
+### Performance Data
+| Post | Type | Views |
+|------|------|-------|
+| 3D printed part closeup | Reel | **311** |
+| "Small desk upgrades - 3d print" | Reel | **254** |
+| "3D print · Code · Build" | Reel | **204** |
+| "Get all my 3D-designs free" | Reel | 158 |
+| App interface dark | Reel | 156 |
+| "Not Everyone Should Code" meme | Reel | 67 |
+
+**Key insight:** 3D printing/maker content = 200-311 views. App dev content = 67-156 views. Audience loves physical maker stuff.
+
+### Identity Split
+⚠️ This account has two audiences:
+1. **Makers** (3D print, desk setups) — high engagement
+2. **Indie hackers** (apps, build in public) — lower engagement
+
+**Strategy:** Use maker content for reach, then funnel to app content. Don't abandon what works.
+
+### What's Working
+- ✅ 681 followers — real audience base
+- ✅ Maker content gets solid reach (200-300 views)
+- ✅ Dark mode aesthetic is consistent
+- ✅ Highlights organized by app (Mulligan, Slothy, Lotty)
+
+### What to Adjust
+- ⚠️ Bio needs more personality and CTA
+- ⚠️ Don't abandon maker content — it brings reach
+- ⚠️ Mix: 60% maker/behind-the-scenes, 40% app/numbers
+- ⚠️ Use maker posts to drive traffic, app posts to convert
+
+### Visual Style
+- **Colors:** Dark mode, accent colors
+- **Content:** Clean aesthetic, 3D prints, desk setups, app screenshots
+
+### Content Voice
+- Direct, honest
+- Real numbers and learnings
+- Maker + dev hybrid — "I build things, physical and digital"
+
+### Strategy for Week 1
+Use what already works. Maker content = reach. App content = purpose.
+
+| Priority | Content Type |
+|----------|--------------|
+| 1st | Maker/behind-the-scenes (what gets views) |
+| 2nd | Build in public numbers (what you want to grow) |
+| 3rd | App screenshots (sparingly) |
+
+___________________________________________________________
 
 ---
 
@@ -95,6 +387,161 @@ Instagram now prioritizes how often people **DM your post to a friend**. More im
 Engagement in the first 60 minutes determines if your post spreads.
 
 **Action:** After posting, spend 15-20 min engaging on other posts in your niche. This drives traffic back to your fresh post.
+
+---
+
+## Content Bank Strategy
+
+### Preload Your Content Bank
+
+Don't create content day-by-day. Build a bank first.
+
+| Step | Action |
+|------|--------|
+| 1 | Create a content bank folder |
+| 2 | Prepare first 9 videos/posts before you start posting |
+| 3 | Always stay 3-5 posts ahead |
+
+### Batch Work
+
+Work in batches = more efficient, consistent quality.
+
+| Type | What |
+|------|------|
+| **Batch Filming** | Film 5-10 videos in one session |
+| **Batch Editing** | Edit all videos in one session |
+
+**Why:** Same setup, same energy, same lighting. Faster than doing one at a time.
+
+### Hook Layering (First 3 Seconds)
+
+Layer **multiple hooks** in the first 3 seconds. Don't rely on just one.
+
+| Hook Type | What It Is | Example |
+|-----------|------------|---------|
+| **Text Hook** | Text on screen | "Nobody talks about this..." |
+| **Audible Hook** | Voice/sound | Start mid-sentence, surprising sound |
+| **Visual Hook** | Eye-catching visual | Movement, bright colors, face close-up |
+
+**Best practice:** Use ALL THREE in the first 3 seconds.
+
+Example:
+- Visual: Close-up of golf ball in water
+- Text: "This is why I quit keeping score"
+- Audio: Splash sound + sigh
+
+### Reel SEO (Keywords)
+
+Keywords help Instagram understand what your reel is about → ranks in Instagram Search.
+
+**Where to put keywords:**
+
+| Place | Priority | Example |
+|-------|----------|---------|
+| **Caption** | HIGH | "Golf tips for beginners who lose balls" |
+| **Text on screen** | HIGH | Pop-up text with keyword phrases |
+| **Cover photo text** | MEDIUM | Explains what reel is about |
+| **Hashtags** | LOW | Still use, but less important now |
+
+### Cover Photos
+
+Be **intentional** with cover photos — don't just pick a random frame.
+
+| Rule | Why |
+|------|-----|
+| Text must be easy to read | People scroll fast, hard-to-read = skip |
+| Explain what the reel is about | Curiosity → click |
+| Keep it simple | 3-5 words max |
+| High contrast | Dark text on light, or light text on dark |
+
+**Bad:** Blurry frame with tiny text
+**Good:** Clean image + bold text: "Why I lost 12 balls"
+
+**Workflow:**
+1. Upload reel as **draft** first
+2. Write caption with keywords
+3. Add text overlays with keyword phrases
+4. Create cover photo that explains the reel
+5. Use same phrases as your inspiration reel (if recreating)
+
+**Tip:** Hashtags are less important now. Keywords in caption + text matter more.
+
+---
+
+### Reel Research (How to Find What Works)
+
+**Only study REELS** — not static posts. Reels reach new audiences through Explore.
+
+| Rule | Why |
+|------|-----|
+| Save viral reels in your niche | Learn what works |
+| Only save RECENT (< 3 months old) | Recent = proof it still works |
+| Analyze format → recreate | Don't copy, adapt to your style |
+
+**Research process:**
+1. Search hashtags in your niche
+2. Filter by Reels only
+3. Save ones with high engagement
+4. Note: hook, format, length, style
+5. Recreate with your own twist
+
+### Test 9 Different Styles
+
+Week 1 = testing. Try different content types to see what YOUR audience responds to.
+
+| Style | Example |
+|-------|---------|
+| **Education** | "How to track your golf score properly" |
+| **Info** | "Did you know 90% of golfers lose 3+ balls per round?" |
+| **Entertainment** | Funny fail compilation |
+| **Relatable** | "POV: You say 'that's actually not bad' after every terrible shot" |
+
+**Per account, test:**
+- 2-3 education/info posts
+- 2-3 entertainment posts
+- 2-3 relatable posts
+
+### After First 9 Posts: Analyze
+
+After posting 9 reels, **stop and analyze** before making more.
+
+**Metrics to compare:**
+
+| Metric | What It Tells You |
+|--------|-------------------|
+| **Watch time** | Most important — did people actually watch? |
+| **Shares/Sends** | Did people want to share it? |
+| **Saves** | Did people find it valuable? |
+| **Likes** | Basic engagement |
+
+**Analysis questions:**
+1. Which video got the **best watch time**?
+2. Which got the **most shares**?
+3. What do the top performers have in common?
+
+**Action:**
+- **Winners:** Recreate that style/format
+- **Losers:** Why didn't they work? Hook weak? Too long? Wrong topic?
+
+**Draw conclusions:**
+
+| If this flopped... | Maybe because... |
+|--------------------|------------------|
+| Education post | Too boring, no hook |
+| Entertainment | Not relatable to your audience |
+| Relatable | Not specific enough to niche |
+
+**Then:** Double down on what works. Stop doing what doesn't.
+
+### Weekly Reflection
+
+Ask yourself every week:
+
+- [ ] **What could I do?** (new ideas, experiments)
+- [ ] **What's working?** (keep doing this)
+- [ ] **What are the numbers saying?** (data > feelings)
+
+> Keep learning. Keep trying new things. The algorithm changes — you should too.
 
 ---
 
