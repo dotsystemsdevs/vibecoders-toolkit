@@ -215,6 +215,7 @@ Key principles:
 
 Background and more details:
 
+- [Marketing](marketing.md) — Week 1 calendar with all posts
 - [Closed Testing](closed-testing.md) — case studies, day-by-day numbers
 - [Feedback](feedback.md) — change management process
 - [UI & UX](ui-ux.md) — tools, productivity tips
