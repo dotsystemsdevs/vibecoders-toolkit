@@ -13,8 +13,41 @@
 | Account | Followers | Target | Vibe |
 |---------|-----------|--------|------|
 | Mulligan | ~6 | Casual golfers | Sarcastic roasts |
-| Slothy | ~6 | Anyone who struggles with productivity | Relatable todo humor |
+| Slothy | ~6 | Anyone who struggles with productivity | Lazy sloth energy |
 | Dev | 600 (inactive) | Indie hackers | Behind the scenes |
+
+### Bio Templates
+
+**Mulligan:**
+```
+🏌️ Sarcastic golf advice
+📱 Track your rounds (link below)
+🎯 For golfers who lose balls, not hope
+```
+
+**Slothy:**
+```
+🦥 Your todo list's laziest friend
+✅ Productivity tips from someone who naps
+📱 Simple todo app (link below)
+```
+
+**Dev:**
+```
+🚀 Shipping apps in public
+📊 Real numbers, no BS
+🔗 My playbook: [link]
+```
+
+### Visual Identity
+
+| Account | Style | Colors |
+|---------|-------|--------|
+| Mulligan | Golf course backgrounds, clean text | Green + white |
+| Slothy | Cozy/lazy vibes, soft tones | Warm beige/brown |
+| Dev | Dark mode, code aesthetic | Dark + accent color |
+
+**Consistency tip:** Use the same font/style for your signature content (Mulligan Advice should always look the same).
 
 ---
 
@@ -146,36 +179,72 @@ These are invisible to the algorithm and don't build connection.
 
 ## Hashtag Strategy
 
-### Mulligan (use 5-10 per post)
+**Rule:** Mix big hashtags (reach) + micro hashtags (under 50k posts = actually discoverable).
+
+### Mulligan (use 8-10 per post)
+
+**Big (reach):**
 ```
-#golf #golfmemes #golflife #weekendgolfer #amateurgolf
-#golfhumor #golfaddict #golfislife #golfproblems
+#golf #golfmemes #golflife #golfhumor
 ```
 
-**Niche hashtags (smaller, more targeted):**
+**Medium (targeted):**
 ```
-#weekendgolf #casualgolfer #golffails #mulliganneeded
-```
-
-### Slothy (use 5-10 per post)
-```
-#productivity #todolist #productivitytips #getthingsdone
-#organizing #lifehacks #workfromhome #motivation
+#weekendgolfer #amateurgolf #golfproblems #golfaddict
 ```
 
-**Niche hashtags (for reach, but don't use ADHD in your content):**
+**Micro (discoverable):**
 ```
-#productivitystruggles #todolistapp #procrastination #sundayreset
+#casualgolfer #golffails #golfstruggles #weekendgolf
+#mulliganneeded #bogeylife #hackersgolf
+```
+
+### Slothy (use 8-10 per post)
+
+**Big (reach):**
+```
+#productivity #todolist #motivation
+```
+
+**Medium (targeted):**
+```
+#productivitytips #getthingsdone #organizing #workfromhome
+```
+
+**Micro (discoverable):**
+```
+#productivitystruggles #procrastinationstation #todolistapp
+#sundayreset #mondaymotivation #listmaker
+```
+
+**For reach (but never mention in content):**
+```
 #adhd #adhdmemes #adhdlife
 ```
 
-> Note: Use ADHD hashtags for reach, but never mention ADHD in your posts. Keep content general — people with ADHD will relate without you claiming it.
+> Note: Use ADHD hashtags for reach, but never mention ADHD in your posts.
 
-### Dev (use 5-10 per post)
+### Dev (use 8-10 per post)
+
+**Big (reach):**
 ```
-#buildinpublic #indiehacker #solodev #startup #appdev
-#shipit #makersmovement #indiedev
+#startup #entrepreneur #coding
 ```
+
+**Medium (targeted):**
+```
+#buildinpublic #indiehacker #solodev #appdev
+```
+
+**Micro (discoverable):**
+```
+#shipit #makersmovement #indiedev #solofounder
+#shipfast #buildinginpublic #devlife
+```
+
+### Hashtag Rotation
+
+Don't use the exact same hashtags every post — Instagram may reduce reach. Rotate between sets.
 
 ---
 
@@ -191,11 +260,18 @@ These are invisible to the algorithm and don't build connection.
 
 ### Slothy
 
+**Character voice:** A lazy sloth who's trying their best. Slow, unbothered, speaks like everything is exhausting.
+
 | Type | Frequency | Description |
 |------|-----------|-------------|
 | **Todo humor** | 3x/week | List fails, losing lists, etc. |
-| **Procrastination** | 2x/week | Relatable delay energy |
+| **Slothy says** | 2x/week | Lazy wisdom from the sloth ("Slothy says: rest is productive too") |
 | **App peek** | 1x/week | Screenshot with caption |
+
+**Slothy voice examples:**
+- "Checked off one task. Nap time."
+- "The list can wait. The couch cannot."
+- "Productivity? In this economy?"
 
 ### Dev
 
@@ -211,11 +287,11 @@ These are invisible to the algorithm and don't build connection.
 
 ### Tuesday (Feb 4) — START TONIGHT
 
-| Time (CET) | Account | Type | Content |
-|------------|---------|------|---------|
-| 21:00 | Mulligan | **Mulligan Advice** | "Blame the wind. Always blame the wind. Even indoors." |
-| 21:30 | Slothy | **Todo humor** | "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
-| 22:00 | Dev | **Build in public** | "Shipping 2 apps. Documenting everything. Follow for the chaos." |
+| Time (CET) | Account | Type | Content | First Comment (pin this) |
+|------------|---------|------|---------|--------------------------|
+| 21:00 | Mulligan | **Mulligan Advice** | "Blame the wind. Always blame the wind. Even indoors." | "What's YOUR go-to excuse? 👇" |
+| 21:30 | Slothy | **Todo humor** | "Made a todo list. Lost the todo list. Made a todo list to find the todo list." | "How many lists deep are you? 👇" |
+| 22:00 | Dev | **Build in public** | "Shipping 2 apps. Documenting everything. Follow for the chaos." | "What are you shipping right now? 👇" |
 
 ### Wednesday (Feb 5)
 
@@ -313,9 +389,39 @@ Answer these after one week:
 - [ ] Caption written (include CTA if relevant)
 
 ### After Posting (first 20 min)
+- [ ] Post your "first comment" (see below)
+- [ ] Pin your first comment
 - [ ] Share to Stories
 - [ ] Do 5-3-1 engagement
 - [ ] Reply to any early comments
+
+---
+
+## First Comment + Pin Strategy
+
+**Why:** Your first comment becomes a CTA that everyone sees. Pin it to keep it at top.
+
+### First Comment Templates
+
+**Mulligan:**
+> "What's your go-to excuse? Drop it below 👇"
+> "Tag someone who does this every round 😂"
+> "Be honest... how many balls did you lose last time?"
+
+**Slothy:**
+> "What's been on your list the longest? 👇"
+> "Tag someone who needs this 😴"
+> "How many unchecked tasks are you carrying right now?"
+
+**Dev:**
+> "What's your biggest shipping blocker? 👇"
+> "Anyone else in the trenches? Drop a 🔥"
+> "What would you add to this list?"
+
+### How to Pin
+1. Post your comment immediately after posting
+2. Swipe left on your comment
+3. Tap the pin icon 📌
 
 ### Daily Non-Negotiables
 - [ ] 1 post or story per active account
