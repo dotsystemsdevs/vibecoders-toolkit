@@ -191,7 +191,9 @@ ASO = making your app findable and attractive in the store.
 
 ## Step 6: Marketing
 
-*Coming soon.*
+Build audience through Instagram. Test what works, then double down.
+
+> Full strategy: [Marketing Guide](marketing.md)
 
 ---
 
@@ -212,6 +214,7 @@ Background and more details:
 - [Feedback](feedback.md) — change management process
 - [UI & UX](ui-ux.md) — tools, productivity tips
 - [CNN & Backend](cnn.md) — ML, security, AI prompts
+- [Marketing](marketing.md) — Instagram strategy, posting schedule, engagement
 
 ---
 
