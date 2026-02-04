@@ -9,7 +9,7 @@ Built from real experience. Nothing made up.
 ## The Journey
 
 ```
-MVP → Screenshots → Closed Testing → Recruit Testers → Feedback → Marketing
+MVP → Screenshots → Closed Testing (+ Recruit) → Feedback → Marketing
 ```
 
 ---
@@ -54,7 +54,9 @@ When building in Expo, create Play Store images.
 
 ## Step 3: Closed Testing
 
-Upload to Play Console.
+Upload to Play Console and recruit testers.
+
+### Setup
 
 - [ ] AAB built and uploaded
 - [ ] Closed testing group created
@@ -65,15 +67,11 @@ Upload to Play Console.
 | Members | 30+ for feedback, 100+ for approval |
 | Timeline | ~2 weeks |
 
-> Details: [Closed Testing](closed-testing.md)
-
----
-
-## Step 4: Recruit Testers
+### Recruit Testers
 
 Post everywhere. Some groups ban you — keep going until you find ones that work.
 
-### Do This
+**Do this:**
 
 | Channel | Why |
 |---------|-----|
@@ -81,7 +79,7 @@ Post everywhere. Some groups ban you — keep going until you find ones that wor
 | Niche forums (golf, poker, etc.) | Best feedback + validates demand |
 | Reddit test-for-test | Works if you reply fast |
 
-### Skip This
+**Skip this:**
 
 | Channel | Why |
 |---------|-----|
@@ -115,7 +113,7 @@ Post everywhere. Some groups ban you — keep going until you find ones that wor
 
 ---
 
-## Step 5: Feedback & Patch
+## Step 4: Feedback & Patch
 
 Collect feedback and fix in batches — not everything at once.
 
@@ -145,7 +143,7 @@ Don't update immediately after feedback. Wait, get distance, then decide with fr
 
 ---
 
-## Step 6: Marketing
+## Step 5: Marketing
 
 *Coming soon.*
 
