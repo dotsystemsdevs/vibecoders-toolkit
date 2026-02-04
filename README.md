@@ -22,7 +22,19 @@ Build the app. It doesn't need to be perfect.
 - [ ] Build UI one screen at a time
 - [ ] Standardize (buttons, cards) last
 
-**Rule:** Ship when it works. Don't wait for perfection.
+### UI Workflow
+
+1. Browse Pinterest for UI inspiration — save cards you like as a moodboard
+2. Ask AI: describe app + features → how should screens look?
+3. Build home screen first → refine until satisfied
+4. Continue screen by screen
+5. Settings last, then standardize components
+
+**Why standardize last?** Doing it early limits creativity.
+
+### Trap: Perfectionism
+
+Don't get stuck polishing. MVP means minimum viable — ship when it works, polish later. Set a time limit if needed.
 
 > Details: [UI & UX](ui-ux.md)
 
@@ -35,6 +47,8 @@ When building in Expo, create Play Store images.
 - [ ] Screenshots of all key screens
 - [ ] Figma for Play Store graphics
 - [ ] Save to `docs/screenshots/`
+
+**Tip:** Do this while building — easier than going back later.
 
 ---
 
@@ -57,22 +71,22 @@ Upload to Play Console.
 
 ## Step 4: Recruit Testers
 
-Post everywhere. You'll get banned sometimes — keep going until you find groups that work.
+Post everywhere. Some groups ban you — keep going until you find ones that work.
 
 ### Do This
 
-| Channel | Result |
-|---------|--------|
-| r/AndroidClosedTesting | Best — post here first |
+| Channel | Why |
+|---------|-----|
+| r/AndroidClosedTesting | Best results — post here first |
 | Niche forums (golf, poker, etc.) | Best feedback + validates demand |
-| Reddit test-for-test | Works — reply fast |
+| Reddit test-for-test | Works if you reply fast |
 
 ### Skip This
 
-| Channel | Result |
-|---------|--------|
-| Discord / Telegram | No response |
-| Reddit UX/UI groups | You'll get banned |
+| Channel | Why |
+|---------|-----|
+| Discord / Telegram | Low response |
+| Reddit UX/UI groups | High ban risk |
 
 ### Strategy
 
@@ -81,7 +95,7 @@ Post everywhere. You'll get banned sometimes — keep going until you find group
 3. Reply fast to "test for test"
 4. Be active when USA is awake
 5. ~15 messages per day
-6. Slow down after day 3-4 (still works)
+6. Pace yourself after day 3-4 — still works with less effort
 
 ### Real Numbers
 
@@ -89,8 +103,6 @@ Post everywhere. You'll get banned sometimes — keep going until you find group
 |-----|--------|
 | Lotty | 110 members → approved |
 | Mulligan | 130 installs (via golf forums) |
-
-**Lotty growth:**
 
 | Day | Members |
 |-----|---------|
@@ -105,7 +117,7 @@ Post everywhere. You'll get banned sometimes — keep going until you find group
 
 ## Step 5: Feedback & Patch
 
-Collect feedback and fix in batches.
+Collect feedback and fix in batches — not everything at once.
 
 ### Collect Feedback
 
@@ -122,8 +134,12 @@ ship → feedback → backlog → prioritize → patch → ship
 | Rule | Why |
 |------|-----|
 | Wait ~1 week | Distance = better decisions |
-| Pick 3-5 items | Don't fix everything at once |
-| P1 = must, P2 = should, P3 = later | Focus on what matters |
+| Pick 3-5 items | Avoid scope creep |
+| P1 = must, P2 = should, P3 = later | Focus on impact |
+
+### Trap: Reacting Too Fast
+
+Don't update immediately after feedback. Wait, get distance, then decide with fresh eyes.
 
 > Details: [Feedback](feedback.md)
 
@@ -131,7 +147,7 @@ ship → feedback → backlog → prioritize → patch → ship
 
 ## Step 6: Marketing
 
-*Coming soon — learning this now.*
+*Coming soon.*
 
 ---
 
@@ -150,19 +166,32 @@ Background and more details:
 
 - [Closed Testing](closed-testing.md) — case studies, day-by-day numbers
 - [Feedback](feedback.md) — change management process
-- [UI & UX](ui-ux.md) — tools, mistakes, productivity
+- [UI & UX](ui-ux.md) — tools, productivity tips
 - [CNN & Backend](cnn.md) — ML, security, AI prompts
+
+---
+
+## Common Traps
+
+| Trap | Solution |
+|------|----------|
+| Perfectionism | Ship MVP first, polish later |
+| Reacting to feedback immediately | Wait ~1 week, fresh eyes |
+| Letting AI decide everything | Be specific, steer the plan yourself |
+| Using wrong channels | Niche forums > general channels |
+| Burning out on recruiting | Pace after day 3-4, still works |
 
 ---
 
 ## What Worked
 
-| Factor | Lesson |
-|--------|--------|
-| UI one screen at a time | Build, be satisfied, move on |
-| Screenshots in Expo | Do it while building |
-| Post everywhere | Get banned sometimes, find the right groups |
-| Niche forums | Best feedback + validates demand |
+| Thing | Why |
+|-------|-----|
+| Pinterest moodboard | Visual inspiration before building |
+| UI one screen at a time | Avoids overwhelm |
+| Screenshots while building | Easier than going back |
+| Niche forums | Validates demand + quality feedback |
+| Test-for-test | Works with fast replies |
 
 ---
 
@@ -170,16 +199,17 @@ Background and more details:
 
 | Thing | Problem |
 |-------|---------|
-| bolt.new / rapidexpo | Bad UI, wastes credits |
-| Discord / Telegram | No response |
-| Reddit UX/UI groups | Banned + negative response |
-| "Do what you think is best" to AI | Bad results — be specific |
+| bolt.new / rapidexpo | Bad UI output, wastes credits |
+| Discord / Telegram | Low response rate |
+| Reddit UX/UI groups | High ban risk |
+| "Do what you think is best" to AI | Vague = bad results |
+| Building all components first | Hard to change, more errors |
 
 ---
 
 ## Contributing
 
-This is a living document. If you have learnings to add, open a PR.
+This is a living document. PRs welcome.
 
 ---
 
