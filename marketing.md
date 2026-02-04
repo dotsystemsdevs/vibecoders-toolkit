@@ -3,8 +3,8 @@
 **Goal:** Test what works. Track engagement. Adjust after 1 week.
 
 **Time budget:** 1+ hour/day
-**Start date:** 2025-02-04 (Tuesday)
-**Evaluation:** 2025-02-11 (Tuesday)
+**Start date:** 2025-02-05 (Wednesday)
+**Evaluation:** 2025-02-12 (Wednesday)
 
 ---
 
@@ -13,7 +13,7 @@
 | Account | Followers | Target | Vibe |
 |---------|-----------|--------|------|
 | Mulligan | ~6 | Casual golfers | Sarcastic roasts |
-| Slothy | ~6 | ADHD / productivity | Relatable + funny |
+| Slothy | ~6 | Anyone who struggles with productivity | Relatable todo humor |
 | Dev | 600 (inactive) | Indie hackers | Behind the scenes |
 
 ---
@@ -117,7 +117,7 @@ These are invisible to the algorithm and don't build connection.
 **On course photos:**
 > "Beautiful. I'd find a way to lose a ball here too"
 
-### Comment Templates (Slothy - ADHD/Productivity)
+### Comment Templates (Slothy - Productivity)
 
 **On productivity tips:**
 > "Saved this. Will never look at it again. As is tradition."
@@ -126,9 +126,9 @@ These are invisible to the algorithm and don't build connection.
 > "Bold of you to assume I remember where I put my list"
 
 **On 'finally did the thing' posts:**
-> "The executive function gods smiled upon you today"
+> "One task down. Time for a 3 hour reward break."
 
-**On ADHD memes:**
+**On productivity memes:**
 > "I feel personally attacked and I'm here for it"
 
 ### Comment Templates (Dev - Indie Hackers)
@@ -159,13 +159,13 @@ These are invisible to the algorithm and don't build connection.
 
 ### Slothy (use 5-10 per post)
 ```
-#adhd #adhdmemes #adhdlife #productivity #todolist
-#adhdproblems #executivedysfunction #adhdawareness
+#productivity #todolist #productivitytips #getthingsdone
+#organizing #lifehacks #workfromhome #motivation
 ```
 
 **Niche hashtags:**
 ```
-#adhdhumor #adhdstruggles #productivitystruggles #adhdcommunity
+#productivitystruggles #todolistapp #procrastination #sundayreset
 ```
 
 ### Dev (use 5-10 per post)
@@ -178,21 +178,14 @@ These are invisible to the algorithm and don't build connection.
 
 ## Content Calendar - Week 1 (Swedish Time)
 
-### Tuesday (Feb 4)
+### Wednesday (Feb 5) — START
 
 | Time (CET) | Account | Content |
 |------------|---------|---------|
-| 21:00 | Mulligan | **Mulligan Advice #1** — "Blame the wind. Always blame the wind. Even indoors." |
-| 21:30 | Slothy | **ADHD meme** — "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
-| 22:00 | Dev | **Intro post** — "Shipping 2 apps. Documenting everything. Follow for the chaos." |
-
-### Wednesday (Feb 5)
-
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 18:00 | Mulligan | **Story** — Golf meme repost |
 | 18:00 | Dev | **Story** — Screenshot of your roadmap |
-| 18:30 | Slothy | **Story** — Productivity fail meme |
+| 21:00 | Mulligan | **Post** — Mulligan Advice #1: "Blame the wind. Always blame the wind. Even indoors." |
+| 21:30 | Slothy | **Post** — "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
+| 22:00 | Dev | **Post** — "Shipping 2 apps. Documenting everything. Follow for the chaos." |
 
 ### Thursday (Feb 6)
 
@@ -200,13 +193,13 @@ These are invisible to the algorithm and don't build connection.
 |------------|---------|---------|
 | 15:00 | Mulligan | **Reel** — Mulligan Advice as text-on-screen video |
 | 21:00 | Slothy | **Post** — "POV: You finally checked off one task and now you need a 3 hour break" |
-| 21:00 | Dev | **Post** — "Got 110 testers in 12 days. Here's what actually worked:" (carousel or text post) |
+| 21:00 | Dev | **Post** — "Got 110 testers in 12 days. Here's what actually worked:" |
 
 ### Friday (Feb 7)
 
 | Time (CET) | Account | Content |
 |------------|---------|---------|
-| 15:00 | Slothy | **Reel** — Quick relatable ADHD moment |
+| 15:00 | Slothy | **Reel** — Quick relatable productivity moment |
 | 18:00 | Dev | **Story** — Behind the scenes, your setup |
 | 21:00 | Mulligan | **Post** — Golf meme / weekend golf anticipation |
 
@@ -222,7 +215,7 @@ These are invisible to the algorithm and don't build connection.
 | Time (CET) | Account | Content |
 |------------|---------|---------|
 | 21:00 | Mulligan | **Post** — Mulligan Advice #2 |
-| 21:00 | Slothy | **Post** — Monday dread meme (or schedule for Mon morning) |
+| 21:00 | Slothy | **Post** — Monday dread meme |
 | 21:00 | Dev | **Post** — Week reflection: what worked, what didn't |
 
 ### Monday (Feb 10)
@@ -231,7 +224,15 @@ These are invisible to the algorithm and don't build connection.
 |------------|---------|---------|
 | 15:00 | Mulligan | **Reel** — Best performing content repurposed OR new Mulligan Advice |
 | 18:00 | Dev | **Story** — What you're working on this week |
-| 21:00 | Slothy | **Post** — Fresh week energy (or anti-motivation meme) |
+| 21:00 | Slothy | **Post** — Fresh week, fresh list (or anti-motivation meme) |
+
+### Tuesday (Feb 11)
+
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 18:00 | Slothy | **Story** — Todo tip or meme |
+| 21:00 | Mulligan | **Post** — Mulligan Advice #3 or golf meme |
+| 21:00 | Dev | **Post** — Learnings from the week |
 
 ---
 
