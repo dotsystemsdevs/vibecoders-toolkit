@@ -193,7 +193,12 @@ ASO = making your app findable and attractive in the store.
 
 Build audience through Instagram. Test what works, then double down.
 
-> Full strategy: [Marketing Guide](marketing.md)
+Key principles:
+- Pick one niche per account
+- Reels get 10-30x more reach than static posts
+- First 3 seconds = hook (pattern interrupt, curiosity, relatable pain)
+- Post when your audience is scrolling (evening for US/UK)
+- 5-3-1 daily: Like 5, Comment 3, Follow 1
 
 ---
 
@@ -214,7 +219,6 @@ Background and more details:
 - [Feedback](feedback.md) — change management process
 - [UI & UX](ui-ux.md) — tools, productivity tips
 - [CNN & Backend](cnn.md) — ML, security, AI prompts
-- [Marketing](marketing.md) — Instagram strategy, posting schedule, engagement
 
 ---
 
