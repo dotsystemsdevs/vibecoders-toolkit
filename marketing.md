@@ -163,10 +163,13 @@ These are invisible to the algorithm and don't build connection.
 #organizing #lifehacks #workfromhome #motivation
 ```
 
-**Niche hashtags:**
+**Niche hashtags (for reach, but don't use ADHD in your content):**
 ```
 #productivitystruggles #todolistapp #procrastination #sundayreset
+#adhd #adhdmemes #adhdlife
 ```
+
+> Note: Use ADHD hashtags for reach, but never mention ADHD in your posts. Keep content general — people with ADHD will relate without you claiming it.
 
 ### Dev (use 5-10 per post)
 ```
