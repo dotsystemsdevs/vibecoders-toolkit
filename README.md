@@ -83,7 +83,14 @@ Post everywhere. You'll get banned sometimes — keep going until you find group
 5. ~15 messages per day
 6. Slow down after day 3-4 (still works)
 
-### Real Numbers (Lotty app)
+### Real Numbers
+
+| App | Result |
+|-----|--------|
+| Lotty | 110 members → approved |
+| Mulligan | 130 installs (via golf forums) |
+
+**Lotty growth:**
 
 | Day | Members |
 |-----|---------|

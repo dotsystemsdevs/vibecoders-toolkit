@@ -131,7 +131,7 @@ Golf app. Posted in golf forums → great feedback + improvement suggestions. Ne
 | 1 | 28 |
 | 2 | 44 |
 | 3 | 67 |
-| 6 | 100+ |
+| 6 | 130 installs |
 
 **Action:** Post in niche forums. They validate demand AND give better feedback.
 
