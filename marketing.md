@@ -18,25 +18,33 @@
 
 ---
 
-## Posting Schedule (Exact Times)
+## Posting Schedule (Swedish Time → International Reach)
 
-Based on Instagram algorithm data:
+All times are **Swedish time (CET)**. Optimized for USA + UK audiences.
+
+| Swedish Time | USA (EST) | UK (GMT) | Best For |
+|--------------|-----------|----------|----------|
+| 15:00 | 9 AM | 2 PM | Reels (USA morning scroll) |
+| 18:00 | 12 PM | 5 PM | Stories (USA lunch) |
+| 21:00 | 3 PM | 8 PM | Posts (USA afternoon peak) |
+
+### Weekly Schedule
 
 | Day | Mulligan | Slothy | Dev |
 |-----|----------|--------|-----|
-| **Tue** | Post 18:00 | Post 19:00 | Post 20:00 |
-| **Wed** | Story 12:00 | Story 18:00 | Story 12:00 |
-| **Thu** | Reel 14:00 | Post 18:00 | Post 19:00 |
-| **Fri** | Post 18:00 | Reel 14:00 | Story 18:00 |
-| **Sat** | Story 10:00 | Story 10:00 | — |
-| **Sun** | Post 18:00 | Post 18:00 | Post 18:00 |
-| **Mon** | Reel 14:00 | Post 09:00 | Story 12:00 |
+| **Tue** | Post 21:00 | Post 21:30 | Post 22:00 |
+| **Wed** | Story 18:00 | Story 18:30 | Story 18:00 |
+| **Thu** | Reel 15:00 | Post 21:00 | Post 21:00 |
+| **Fri** | Post 21:00 | Reel 15:00 | Story 18:00 |
+| **Sat** | Story 18:00 | Story 18:00 | — |
+| **Sun** | Post 21:00 | Post 21:00 | Post 21:00 |
+| **Mon** | Reel 15:00 | Post 21:00 | Story 18:00 |
 
 ### Why These Times?
-- **Posts:** 18:00-20:00 = prime evening scrolling
-- **Reels:** 14:00 = afternoon break, high reel engagement
-- **Stories:** 12:00 or 18:00 = lunch or evening
-- **Best days:** Wednesday + Thursday get highest engagement
+- **Posts 21:00:** Hits USA 3 PM = afternoon scrolling peak
+- **Reels 15:00:** Hits USA 9 AM = morning scroll, reels perform well
+- **Stories 18:00:** Hits USA lunch + UK evening
+- **Best days:** Wednesday + Thursday get highest engagement globally
 
 ---
 
@@ -168,62 +176,62 @@ These are invisible to the algorithm and don't build connection.
 
 ---
 
-## Content Calendar - Week 1
+## Content Calendar - Week 1 (Swedish Time)
 
 ### Tuesday (Feb 4)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 18:00 | Mulligan | **Mulligan Advice #1** — "Blame the wind. Always blame the wind. Even indoors." |
-| 19:00 | Slothy | **ADHD meme** — "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
-| 20:00 | Dev | **Intro post** — "Shipping 2 apps. Documenting everything. Follow for the chaos." |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 21:00 | Mulligan | **Mulligan Advice #1** — "Blame the wind. Always blame the wind. Even indoors." |
+| 21:30 | Slothy | **ADHD meme** — "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
+| 22:00 | Dev | **Intro post** — "Shipping 2 apps. Documenting everything. Follow for the chaos." |
 
 ### Wednesday (Feb 5)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 12:00 | Mulligan | **Story** — Golf meme repost |
-| 12:00 | Dev | **Story** — Screenshot of your roadmap |
-| 18:00 | Slothy | **Story** — Productivity fail meme |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 18:00 | Mulligan | **Story** — Golf meme repost |
+| 18:00 | Dev | **Story** — Screenshot of your roadmap |
+| 18:30 | Slothy | **Story** — Productivity fail meme |
 
 ### Thursday (Feb 6)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 14:00 | Mulligan | **Reel** — Mulligan Advice as text-on-screen video |
-| 18:00 | Slothy | **Post** — "POV: You finally checked off one task and now you need a 3 hour break" |
-| 19:00 | Dev | **Post** — "Got 110 testers in 12 days. Here's what actually worked:" (carousel or text post) |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 15:00 | Mulligan | **Reel** — Mulligan Advice as text-on-screen video |
+| 21:00 | Slothy | **Post** — "POV: You finally checked off one task and now you need a 3 hour break" |
+| 21:00 | Dev | **Post** — "Got 110 testers in 12 days. Here's what actually worked:" (carousel or text post) |
 
 ### Friday (Feb 7)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 14:00 | Slothy | **Reel** — Quick relatable ADHD moment |
-| 18:00 | Mulligan | **Post** — Golf meme / weekend golf anticipation |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 15:00 | Slothy | **Reel** — Quick relatable ADHD moment |
 | 18:00 | Dev | **Story** — Behind the scenes, your setup |
+| 21:00 | Mulligan | **Post** — Golf meme / weekend golf anticipation |
 
 ### Saturday (Feb 8)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 10:00 | Mulligan | **Story** — "Weekend golf mode activated" + app mention |
-| 10:00 | Slothy | **Story** — "Weekend = no todo list guilt" |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 18:00 | Mulligan | **Story** — "Weekend golf mode activated" + app mention |
+| 18:00 | Slothy | **Story** — "Weekend = no todo list guilt" |
 
 ### Sunday (Feb 9)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 18:00 | Mulligan | **Post** — Mulligan Advice #2 |
-| 18:00 | Slothy | **Post** — Monday dread meme (or schedule for Mon morning) |
-| 18:00 | Dev | **Post** — Week reflection: what worked, what didn't |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 21:00 | Mulligan | **Post** — Mulligan Advice #2 |
+| 21:00 | Slothy | **Post** — Monday dread meme (or schedule for Mon morning) |
+| 21:00 | Dev | **Post** — Week reflection: what worked, what didn't |
 
 ### Monday (Feb 10)
 
-| Time | Account | Content |
-|------|---------|---------|
-| 09:00 | Slothy | **Post** — Fresh week energy (or anti-motivation meme) |
-| 12:00 | Dev | **Story** — What you're working on this week |
-| 14:00 | Mulligan | **Reel** — Best performing content repurposed OR new Mulligan Advice |
+| Time (CET) | Account | Content |
+|------------|---------|---------|
+| 15:00 | Mulligan | **Reel** — Best performing content repurposed OR new Mulligan Advice |
+| 18:00 | Dev | **Story** — What you're working on this week |
+| 21:00 | Slothy | **Post** — Fresh week energy (or anti-motivation meme) |
 
 ---
 
