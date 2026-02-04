@@ -112,7 +112,7 @@ These are invisible to the algorithm and don't build connection.
 > "Meanwhile my ball is still looking for its dad in the woods"
 
 **On golf tips:**
-> "Instructions unclear, hit the cart girl"
+> "Instructions unclear, ball went the other way"
 
 **On course photos:**
 > "Beautiful. I'd find a way to lose a ball here too"
