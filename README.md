@@ -9,7 +9,7 @@ Built from real experience. Nothing made up.
 ## The Journey
 
 ```
-MVP → Screenshots → Closed Testing (+ Recruit) → Feedback → Marketing
+MVP → Screenshots → Closed Testing → Feedback → Go Live (ASO) → Marketing
 ```
 
 ---
@@ -76,7 +76,7 @@ Post everywhere. Some groups ban you — keep going until you find ones that wor
 | Channel | Why |
 |---------|-----|
 | r/AndroidClosedTesting | Best results — post here first |
-| Niche forums (golf, poker, etc.) | Best feedback + validates demand |
+| Niche forums (golf, poker, etc.) | Quality feedback if they engage |
 | Reddit test-for-test | Works if you reply fast |
 
 **Skip this:**
@@ -85,6 +85,12 @@ Post everywhere. Some groups ban you — keep going until you find ones that wor
 |---------|-----|
 | Discord / Telegram | Low response |
 | Reddit UX/UI groups | High ban risk |
+
+### Reality Check
+
+**Test-for-test users are not your target audience.** They download for reciprocation, not because they need your app. Expect most to leave — that's normal. Don't measure retention on these users.
+
+**Niche forums are hostile to promotion.** People say "stop coming here with your shit app" before even looking. You will get banned. Post anyway — the few who engage give the best feedback.
 
 ### Strategy
 
@@ -143,7 +149,47 @@ Don't update immediately after feedback. Wait, get distance, then decide with fr
 
 ---
 
-## Step 5: Marketing
+## Step 5: Go Live (ASO)
+
+Before going public, optimize your Play Store listing.
+
+### When to Go Live
+
+- [ ] Core bugs from testing fixed
+- [ ] One final update with everything from testing period
+- [ ] You want real user feedback (not just test-for-test)
+
+### ASO Checklist (App Store Optimization)
+
+ASO = making your app findable and attractive in the store.
+
+**Naming:**
+
+| Before | After | Why |
+|--------|-------|-----|
+| "lotty-tracker" | "Win/Loss Tracker" | Generic = broader reach |
+| "Lost Ball Counter" | "Mulligan: Golf Scorecard" | Professional + keywords |
+
+- [ ] Remove niche jargon from app name
+- [ ] Include keywords people search for
+- [ ] Keep it short and clear
+
+**Listing:**
+
+- [ ] Screenshots show the app in action (not just UI)
+- [ ] Description starts with what problem it solves
+- [ ] Short description has main keywords
+
+**Reviews:**
+
+- [ ] Ask happy testers to leave a review before going public
+- [ ] Respond to all reviews (shows activity)
+
+> ASO is an ongoing process — revisit after seeing search data.
+
+---
+
+## Step 6: Marketing
 
 *Coming soon.*
 
