@@ -3,8 +3,8 @@
 **Goal:** Test what works. Track engagement. Adjust after 1 week.
 
 **Time budget:** 1+ hour/day
-**Start date:** 2025-02-05 (Wednesday)
-**Evaluation:** 2025-02-12 (Wednesday)
+**Start date:** 2025-02-04 (Tuesday evening)
+**Evaluation:** 2025-02-11 (Tuesday)
 
 ---
 
@@ -179,63 +179,98 @@ These are invisible to the algorithm and don't build connection.
 
 ---
 
+## Content Pillars
+
+### Mulligan
+
+| Type | Frequency | Description |
+|------|-----------|-------------|
+| **Mulligan Advice** | 3x/week | Sarcastic golf "tips" — your signature |
+| **Golf memes** | 2x/week | Relatable casual golfer humor |
+| **App peek** | 1x/week | Screenshot with funny caption |
+
+### Slothy
+
+| Type | Frequency | Description |
+|------|-----------|-------------|
+| **Todo humor** | 3x/week | List fails, losing lists, etc. |
+| **Procrastination** | 2x/week | Relatable delay energy |
+| **App peek** | 1x/week | Screenshot with caption |
+
+### Dev
+
+| Type | Frequency | Description |
+|------|-----------|-------------|
+| **Build in public** | 2x/week | Numbers, milestones |
+| **Learnings** | 2x/week | Tips from your playbook |
+| **Behind the scenes** | 1x/week | Setup, process |
+
+---
+
 ## Content Calendar - Week 1 (Swedish Time)
 
-### Wednesday (Feb 5) — START
+### Tuesday (Feb 4) — START TONIGHT
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 18:00 | Dev | **Story** — Screenshot of your roadmap |
-| 21:00 | Mulligan | **Post** — Mulligan Advice #1: "Blame the wind. Always blame the wind. Even indoors." |
-| 21:30 | Slothy | **Post** — "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
-| 22:00 | Dev | **Post** — "Shipping 2 apps. Documenting everything. Follow for the chaos." |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 21:00 | Mulligan | **Mulligan Advice** | "Blame the wind. Always blame the wind. Even indoors." |
+| 21:30 | Slothy | **Todo humor** | "Made a todo list. Lost the todo list. Made a todo list to find the todo list." |
+| 22:00 | Dev | **Build in public** | "Shipping 2 apps. Documenting everything. Follow for the chaos." |
+
+### Wednesday (Feb 5)
+
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 18:00 | Dev | **Story** | Screenshot of your vibecoders toolkit / roadmap |
+| 21:00 | Mulligan | **Golf meme** | Weekend golfer waiting for Friday meme |
+| 21:30 | Slothy | **Procrastination** | "I'll start being productive Monday" (posted on Wednesday) |
 
 ### Thursday (Feb 6)
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 15:00 | Mulligan | **Reel** — Mulligan Advice as text-on-screen video |
-| 21:00 | Slothy | **Post** — "POV: You finally checked off one task and now you need a 3 hour break" |
-| 21:00 | Dev | **Post** — "Got 110 testers in 12 days. Here's what actually worked:" |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 15:00 | Mulligan | **Reel** | Mulligan Advice #1 as video (text on golf background) |
+| 21:00 | Slothy | **Todo humor** | "POV: You finally checked off one task. Time for a 3 hour reward break." |
+| 21:00 | Dev | **Learnings** | "Got 110 testers in 12 days. Here's what worked: [list]" |
 
 ### Friday (Feb 7)
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 15:00 | Slothy | **Reel** — Quick relatable productivity moment |
-| 18:00 | Dev | **Story** — Behind the scenes, your setup |
-| 21:00 | Mulligan | **Post** — Golf meme / weekend golf anticipation |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 15:00 | Slothy | **Reel** | Quick clip: crossing off one tiny task, celebrating like won the lottery |
+| 18:00 | Dev | **Story** | Behind the scenes — your desk/setup |
+| 21:00 | Mulligan | **Mulligan Advice** | "If you can't find your ball, it's not lost. It's just playing a different hole." |
 
 ### Saturday (Feb 8)
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 18:00 | Mulligan | **Story** — "Weekend golf mode activated" + app mention |
-| 18:00 | Slothy | **Story** — "Weekend = no todo list guilt" |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 18:00 | Mulligan | **Story** | "Weekend golf mode: activated" + app screenshot |
+| 18:00 | Slothy | **Story** | "Weekend = no todo list guilt. See you Monday, tasks." |
 
 ### Sunday (Feb 9)
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 21:00 | Mulligan | **Post** — Mulligan Advice #2 |
-| 21:00 | Slothy | **Post** — Monday dread meme |
-| 21:00 | Dev | **Post** — Week reflection: what worked, what didn't |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 21:00 | Mulligan | **Mulligan Advice** | "A bad day on the course is still better than a good day at work. Unless you lost 12 balls. Then it's close." |
+| 21:00 | Slothy | **Procrastination** | "Sunday scaries but make it a todo list that's been ignored all week" |
+| 21:00 | Dev | **Build in public** | "Week 1 of marketing test: here's what happened [numbers]" |
 
 ### Monday (Feb 10)
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 15:00 | Mulligan | **Reel** — Best performing content repurposed OR new Mulligan Advice |
-| 18:00 | Dev | **Story** — What you're working on this week |
-| 21:00 | Slothy | **Post** — Fresh week, fresh list (or anti-motivation meme) |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 15:00 | Mulligan | **Reel** | Mulligan Advice #2 or #3 as video |
+| 18:00 | Dev | **Story** | "This week I'm working on: [preview]" |
+| 21:00 | Slothy | **Todo humor** | "New week, new list, same procrastination" |
 
-### Tuesday (Feb 11)
+### Tuesday (Feb 11) — EVALUATION DAY
 
-| Time (CET) | Account | Content |
-|------------|---------|---------|
-| 18:00 | Slothy | **Story** — Todo tip or meme |
-| 21:00 | Mulligan | **Post** — Mulligan Advice #3 or golf meme |
-| 21:00 | Dev | **Post** — Learnings from the week |
+| Time (CET) | Account | Type | Content |
+|------------|---------|------|---------|
+| 18:00 | Slothy | **Story** | Quick todo tip or meme |
+| 21:00 | Mulligan | **Golf meme** | Pick your best performing style so far |
+| 21:00 | Dev | **Learnings** | "1 week of posting: what worked, what didn't"
 
 ---
 
