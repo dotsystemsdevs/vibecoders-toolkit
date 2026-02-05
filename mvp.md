@@ -1,259 +1,344 @@
 # MVP Guide
 
+Den kompletta guiden för att bygga och lansera din första produkt.
+
 ---
 
-## What is an MVP?
+# Del 1: Förståelse
+
+*Bakgrund och koncept — läs detta först.*
+
+---
+
+## Vad är ett MVP?
 
 > "The version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort." — Eric Ries
 
-**Minimum Viable Product** = The smallest thing you can build that someone will pay for.
+**Minimum Viable Product** = Den minsta produkten du kan bygga som någon betalar för.
 
-Key word: **viable**. Until someone hands you money, you haven't proven viability.
-
----
-
-## MVP vs Prototype vs Product
-
-| Type | What it is | Who uses it |
-|------|------------|-------------|
-| **Prototype** | Visual draft, mockup, clickable demo | Internal team |
-| **MVP** | Functional product with core features | Real users who pay |
-| **Full Product** | Refined, scalable, polished | Mass market |
-
-A prototype proves the concept works. An MVP proves people will pay.
+Nyckelordet är **viable** (livskraftig). Tills någon ger dig pengar har du inte bevisat att produkten fungerar.
 
 ---
 
-## The Real Test
+## Varför spelar MVP roll?
 
-Demos and positive feedback feel good. But they don't validate your product.
+| Anledning | Effekt |
+|-----------|--------|
+| Snabb validering | Testa idén innan du bygger för mycket |
+| Sparar tid | Bygg inte features ingen vill ha |
+| Lär av riktiga användare | Inte gissningar |
+| Iterera snabbt | Förbättra baserat på feedback |
 
-| What people say | What it means |
-|-----------------|---------------|
-| "This looks great!" | They like the idea |
-| "I would totally use this" | They might use it |
-| "Here's my credit card" | **Validated** |
+**Utan MVP:** Du spenderar månader på att bygga något ingen vill ha.
 
-**The hard truth:** People love to say your product is great. But when you ask for the sale, something always comes up. Until money changes hands, you're guessing.
-
----
-
-## What MVP is NOT
-
-| MVP is NOT | MVP IS |
-|------------|--------|
-| Feature-complete | One thing that works |
-| Perfect design | Functional design |
-| Scalable architecture | Code that runs |
-| All edge cases handled | Happy path works |
-| Polished animations | Basic feedback (loading, errors) |
+**Med MVP:** Du vet inom veckor om idén fungerar.
 
 ---
 
-## Definition of Done
+## Vad är skillnaden mellan MVP, prototyp och färdig produkt?
 
-Your MVP is ready when:
+| Typ | Vad det är | Vem använder det |
+|-----|------------|------------------|
+| **Prototyp** | Visuellt utkast, mockup, klickbar demo | Internt team |
+| **MVP** | Fungerande produkt med kärnfunktioner | Riktiga användare som betalar |
+| **Färdig produkt** | Raffinerad, skalbar, polerad | Massmarknad |
 
-1. **One core feature works end-to-end**
-2. **You can demo it in 60 seconds**
-3. **A stranger can use it without your help**
-4. **You're slightly embarrassed** — if you're not, you waited too long
+**Prototyp** bevisar att konceptet fungerar.
+**MVP** bevisar att folk betalar.
+
+---
+
+## Hur vet jag om min idé är validerad?
+
+Demos och positiv feedback känns bra. Men de validerar inte din produkt.
+
+| Vad folk säger | Vad det betyder |
+|----------------|-----------------|
+| "Det här ser bra ut!" | De gillar idén |
+| "Jag skulle definitivt använda detta" | De kanske använder det |
+| "Här är mitt kreditkort" | **Validerat** |
+
+**Den hårda sanningen:** Folk älskar att säga att din produkt är bra. Men när du ber om betalning dyker alltid något upp. Tills pengar byter händer gissar du.
+
+---
+
+## Vad är MVP INTE?
+
+| MVP är INTE | MVP ÄR |
+|-------------|--------|
+| Feature-komplett | En sak som fungerar |
+| Perfekt design | Funktionell design |
+| Skalbar arkitektur | Kod som kör |
+| Alla edge cases hanterade | Happy path fungerar |
+| Polerade animationer | Basic feedback (loading, errors) |
+
+---
+
+## Vilka företag började med MVP?
+
+| Företag | MVP | Vad de testade |
+|---------|-----|----------------|
+| **Uber** | SMS-tjänst för att ringa taxi | Skulle folk beställa resor via telefon? |
+| **Dropbox** | Förklaringsvideo (ingen fungerande produkt) | Finns det efterfrågan på molnsynk? |
+| **Amazon** | Online bokhandel från ett garage | Kommer folk köpa böcker online? |
+| **Spotify** | Landing page med streamingtest | Kan vi göra uppspelning snabb och stabil? |
+
+Ingen av dessa började med hela produkten. De testade en hypotes först.
+
+---
+
+# Del 2: Action
+
+*Konkreta steg — gör detta.*
+
+---
+
+## Hur bygger jag ett MVP? (6 steg)
+
+```
+Smärtpunkt → Hypotes → Bygg minimalt → Testa → Lär → Iterera
+```
+
+### Steg 1: Identifiera smärtpunkten
+
+Vilket problem löser du? Prata med potentiella användare:
+
+- [ ] Vad gör de idag?
+- [ ] Vad frustrerar dem?
+- [ ] Skulle de betala för att lösa det?
+
+### Steg 2: Definiera din hypotes
+
+Skriv den så här:
+
+> "Om jag bygger [X], då kommer [målgrupp] betala [Y] eftersom det löser [Z]."
+
+Var specifik. Vaga hypoteser leder till vaga produkter.
+
+### Steg 3: Bygg det minimala
+
+Bara det som behövs för att testa din hypotes. Inget mer.
+
+- [ ] En kärnfunktion som fungerar end-to-end
+- [ ] Användaren kan slutföra huvudflödet
+- [ ] Basic UI (behöver inte vara snyggt)
+
+### Steg 4: Testa med riktiga användare
+
+Inte vänner. Inte familj. Människor som har problemet och skulle betala för att lösa det.
+
+- [ ] Hitta 5-10 personer i din målgrupp
+- [ ] Låt dem använda produkten
+- [ ] Observera — fråga inte bara
+
+### Steg 5: Mät det som spelar roll
+
+- [ ] Använde de det?
+- [ ] Betalade de?
+- [ ] Kom de tillbaka?
+- [ ] Vad klagade de på?
+
+### Steg 6: Iterera eller pivotera
+
+Om det fungerar → lägg till mer.
+Om det inte fungerar → ändra riktning.
+
+---
+
+## Hur vet jag när mitt MVP är klart?
+
+Din MVP är klar när:
+
+- [ ] **En kärnfunktion fungerar end-to-end**
+- [ ] **Du kan demo:a det på 60 sekunder**
+- [ ] **En främling kan använda det utan din hjälp**
+- [ ] **Du är lite generad** — om du inte är det väntade du för länge
 
 > "If you're not embarrassed by the first version of your product, you've launched too late." — Reid Hoffman
 
 ---
 
-## Real Examples
+## Vilken tidsgräns ska jag sätta?
 
-| Company | MVP | What they tested |
-|---------|-----|------------------|
-| **Uber** | SMS service to call a cab | Would people order rides via phone? |
-| **Dropbox** | Explainer video (no working product) | Is there demand for cloud sync? |
-| **Amazon** | Online bookstore from a garage | Will people buy books online? |
-| **Spotify** | Landing page with streaming test | Can we make playback fast and stable? |
+Om du fortfarande är "nästan klar" efter 3 veckor överbygger du.
 
-None of these started with the full product. They tested one hypothesis first.
+| Vecka | Mål |
+|-------|-----|
+| 1 | Kärnfunktion fungerar |
+| 2 | Basic UI + intern testning |
+| 3 | Skeppa till riktiga användare |
 
----
-
-## The Process
-
-```
-Pain point → Hypothesis → Build minimal → Test → Learn → Iterate
-```
-
-### 1. Identify the pain point
-
-What problem are you solving? Talk to potential users:
-- What do they currently do?
-- What frustrates them?
-- Would they pay to fix it?
-
-### 2. Define your hypothesis
-
-"If I build [X], then [target user] will pay [Y] because it solves [Z]."
-
-Be specific. Vague hypotheses lead to vague products.
-
-### 3. Build the minimum
-
-Only what's needed to test your hypothesis. Nothing more.
-
-### 4. Test with real users
-
-Not friends. Not family. People who have the problem and would pay to solve it.
-
-### 5. Measure what matters
-
-- Did they use it?
-- Did they pay?
-- Did they come back?
-- What did they complain about?
-
-### 6. Iterate or pivot
-
-If it works, add more. If it doesn't, change direction.
+**Sätt en deadline. Skeppa fult. Lär snabbt.**
 
 ---
 
-## Common Mistakes
+## Vilka misstag ska jag undvika?
 
-| Mistake | Why it fails |
-|---------|--------------|
-| Adding too many features | Dilutes focus, delays launch |
-| Not launching early enough | Waiting for perfect = never launching |
-| Ignoring feedback | Building blind |
-| Confusing interest with validation | "Looks great" ≠ "I'll pay" |
-| Building for the wrong users | Early adopters ≠ target market |
-
----
-
-## Time Limits
-
-If you're still "almost done" after 3 weeks, you're overbuilding.
-
-| Week | Goal |
-|------|------|
-| 1 | Core feature working |
-| 2 | Basic UI + internal testing |
-| 3 | Ship to real users |
-
-Set a deadline. Ship ugly. Learn fast.
+| Misstag | Varför det misslyckas |
+|---------|----------------------|
+| Lägger till för många features | Späder ut fokus, försenar lansering |
+| Lanserar inte tidigt nog | Väntar på perfekt = lanserar aldrig |
+| Ignorerar feedback | Bygger blint |
+| Förväxlar intresse med validering | "Ser bra ut" ≠ "Jag betalar" |
+| Bygger för fel användare | Early adopters ≠ målmarknad |
 
 ---
 
-## Vibe Coding
+# Del 3: Vibe Coding
 
-Using AI to build fast. Let AI handle implementation while you focus on what to build.
+*Hur du använder AI för att bygga snabbt.*
 
-### What It Is
+---
+
+## Vad är vibe coding?
 
 > "You talk to your code, accept LLM suggestions, copy-paste error messages, and pray it works. And it mostly does." — Andrej Karpathy
 
-**Vibe coding** = AI-assisted development where you describe what you want and AI generates the code.
+**Vibe coding** = AI-assisterad utveckling där du beskriver vad du vill ha och AI genererar koden.
 
-### What It Is NOT
+---
 
-- Pasting prompts and hoping for the best
-- Shipping code you don't understand
-- Bypassing security or architecture
-- Letting AI make all decisions
+## Vad är vibe coding INTE?
 
-**Key rule:** If you can't read the code AI generates, don't ship it.
+- ❌ Klistra in prompts och hoppas på det bästa
+- ❌ Skeppa kod du inte förstår
+- ❌ Hoppa över säkerhet eller arkitektur
+- ❌ Låta AI ta alla beslut
 
-### The Loop
+**Nyckelregel:** Om du inte kan läsa koden AI genererar, skeppa den inte.
+
+---
+
+## Hur fungerar vibe coding-loopen?
 
 ```
-Describe → Generate → Review → Test → Repeat
+Beskriv → Generera → Granska → Testa → Upprepa
 ```
 
-1. **Describe** what you want to build (be specific)
-2. **AI generates** initial implementation
-3. **You review** and correct mistakes
-4. **Test immediately** — don't batch
-5. **Commit frequently** — small atomic commits
+| Steg | Vad du gör |
+|------|------------|
+| 1. Beskriv | Förklara vad du vill bygga (var specifik) |
+| 2. Generera | AI skapar första implementationen |
+| 3. Granska | Du granskar och korrigerar misstag |
+| 4. Testa | Testa direkt — batcha inte |
+| 5. Upprepa | Committa ofta, små ändringar |
 
-### When It Works
+---
 
-| Use Case | Why |
-|----------|-----|
-| Demos and prototypes | Fast validation, throwaway code OK |
-| Landing pages | Simple, low risk |
-| Internal tools | Less security pressure |
-| Learning/exploring | Rapid iteration |
+## När fungerar vibe coding?
 
-### When It Doesn't
+| Användningsfall | Varför |
+|-----------------|--------|
+| Demos och prototyper | Snabb validering, throwaway-kod OK |
+| Landing pages | Enkelt, låg risk |
+| Interna verktyg | Mindre säkerhetstryck |
+| Lärande/utforskande | Snabb iteration |
 
-| Use Case | Why |
-|----------|-----|
-| Production with real user data | Security vulnerabilities |
-| Complex backends | AI creates inconsistent mess as codebase grows |
-| Anything with payments | Too risky without expert review |
-| Scaling beyond 100 users | Architecture breaks |
+---
 
-### Non-Technical Founders
+## När fungerar vibe coding INTE?
 
-**Reality check from Reddit:**
+| Användningsfall | Varför |
+|-----------------|--------|
+| Produktion med riktig användardata | Säkerhetshål |
+| Komplexa backends | AI skapar inkonsekvent röra när kodbasen växer |
+| Allt med betalningar | För riskabelt utan expertgranskning |
+| Skalning över 100 användare | Arkitekturen går sönder |
+
+---
+
+## Kan jag som icke-teknisk grundare vibe-coda?
+
+**Verklighetscheck från Reddit:**
 
 > "I haven't seen anybody who vibecoded entire applications without knowing coding. I have seen landing pages that are vibecoded."
 
-| Approach | Works For |
-|----------|-----------|
-| Vibe code a demo | Getting initial feedback, showing investors |
-| Vibe code MVP, hire devs later | Validating idea cheap, then rebuilding properly |
-| Hire dev from start | Complex products, security-critical, B2B |
+| Approach | Fungerar för |
+|----------|--------------|
+| Vibe-coda en demo | Få initial feedback, visa investerare |
+| Vibe-coda MVP, anställ devs senare | Validera idé billigt, bygg om sen |
+| Anställ dev från start | Komplexa produkter, säkerhetskritiskt, B2B |
 
-**The honest truth:** Vibe coding is great for demos. For real MVPs with paying users, most non-technical founders eventually need dev help — either to review/fix AI code or rebuild from scratch.
-
-### Tradeoffs
-
-| Pro | Con |
-|-----|-----|
-| 10x faster to prototype | Security holes you won't catch |
-| Lower barrier to start | Technical debt accumulates fast |
-| Instant context recovery | AI makes poor decisions as code grows |
-| Validates ideas cheap | May need full rewrite later |
-
-### If You Vibe Code
-
-1. **Plan first** — Create implementation plan before coding
-2. **Be specific** — Vague prompts = bad code
-3. **Review everything** — Don't blindly accept
-4. **Test constantly** — Don't batch testing
-5. **Know when to stop** — Get dev help before users pay
+**Den ärliga sanningen:** Vibe coding är bra för demos. För riktiga MVPs med betalande användare behöver de flesta icke-tekniska grundare till slut dev-hjälp — antingen för att granska/fixa AI-kod eller bygga om från scratch.
 
 ---
 
-## AI Models
+## Vilka är fördelarna och nackdelarna?
 
-| Model | Best For |
-|-------|----------|
-| Claude Sonnet 4.5 | Coding, debugging, refactoring |
-| Claude Opus 4.5 | Complex architecture, hard problems |
-| GPT-5 | Brainstorming, marketing copy, ideas |
-| GPT-4o | Quick tasks, good enough for most |
-| v0.dev | UI prototypes (React) |
-| Midjourney | Icons, graphics |
-
-### Vibe Coding Tools
-
-| Tool | What it does |
-|------|--------------|
-| Cursor | AI-enhanced VS Code fork, best for coding |
-| Windsurf | Standalone AI editor, good flow |
-| Claude Code | Terminal-based, powerful for devs |
-| Bolt.new | Full app generation (hit or miss) |
-| Lovable | Similar to Bolt, generates full apps |
+| Fördel | Nackdel |
+|--------|---------|
+| 10x snabbare att prototypa | Säkerhetshål du inte upptäcker |
+| Lägre tröskel att börja | Teknisk skuld ackumuleras snabbt |
+| Instant context recovery | AI tar dåliga beslut när koden växer |
+| Validerar idéer billigt | Kan behöva full omskrivning senare |
 
 ---
 
-## Next Steps
+## Vad ska jag göra om jag vibe-codar?
 
-Once your MVP is validated:
-1. Take screenshots → [Phase 2](README.md#phase-2-screenshots)
-2. Upload to Play Console → [Closed Testing](closed-testing.md)
-3. Get feedback → [Feedback Guide](feedback.md)
+- [ ] **Planera först** — Skapa implementationsplan innan kodning
+- [ ] **Var specifik** — Vaga prompts = dålig kod
+- [ ] **Granska allt** — Acceptera inte blint
+- [ ] **Testa konstant** — Batcha inte testning
+- [ ] **Vet när du ska sluta** — Skaffa dev-hjälp innan användare betalar
 
 ---
 
-*Ship first. Polish later.*
+# Del 4: Verktyg
+
+*Vilka AI-modeller och verktyg du ska använda.*
+
+---
+
+## Vilken AI-modell ska jag använda?
+
+| Modell | Bäst för |
+|--------|----------|
+| Claude Sonnet 4.5 | Kodning, debugging, refaktorering |
+| Claude Opus 4.5 | Komplex arkitektur, svåra problem |
+| GPT-5 | Brainstorming, marketing copy, idéer |
+| GPT-4o | Snabba uppgifter, bra nog för det mesta |
+| v0.dev | UI-prototyper (React) |
+| Midjourney | Ikoner, grafik |
+
+---
+
+## Vilka vibe coding-verktyg finns?
+
+| Verktyg | Vad det gör |
+|---------|-------------|
+| **Cursor** | AI-förbättrad VS Code-fork, bäst för kodning |
+| **Windsurf** | Fristående AI-editor, bra flow |
+| **Claude Code** | Terminalbaserad, kraftfull för devs |
+| **Bolt.new** | Full app-generering (träff eller miss) |
+| **Lovable** | Liknande Bolt, genererar hela appar |
+
+---
+
+# Del 5: Nästa steg
+
+*Vad du gör när MVP är klart.*
+
+---
+
+## Vad gör jag efter MVP är validerat?
+
+1. **Ta screenshots** → [Fas 2: Screenshots](README.md#phase-2-screenshots)
+2. **Ladda upp till Play Console** → [Closed Testing Guide](closed-testing.md)
+3. **Samla feedback** → [Feedback Guide](feedback.md)
+
+---
+
+## Sammanfattning
+
+| Fråga | Svar |
+|-------|------|
+| Vad är MVP? | Minsta produkten någon betalar för |
+| Hur vet jag att den är klar? | Du är lite generad + en främling kan använda den |
+| Hur lång tid tar det? | Max 3 veckor |
+| Kan jag vibe-coda den? | Demos ja, produktion med betalningar behöver dev-hjälp |
+| Vilket verktyg ska jag använda? | Claude för kod, ChatGPT för idéer |
+
+---
+
+*Skeppa först. Polera senare.*
