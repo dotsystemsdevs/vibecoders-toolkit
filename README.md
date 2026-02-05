@@ -6,19 +6,49 @@ Built from real experience. Nothing made up.
 
 ---
 
-## The Journey
+# Roadmap
 
 ```
 MVP → Screenshots → Closed Testing → Feedback → Go Live (ASO) → Marketing
 ```
 
+Everything below follows this roadmap. Each phase builds on the previous.
+
 ---
 
-## Step 1: MVP
+## Phase 1: MVP
 
-Build the app. It doesn't need to be perfect.
+Build the smallest version of your app that delivers value AND gives you feedback.
 
-- [ ] App works (core features)
+### What is an MVP?
+
+**Minimum Viable Product** = The smallest version that:
+- Solves a real problem
+- Can be used by real people
+- Gives you data to improve
+
+### Why MVP Matters
+
+| Reason | Impact |
+|--------|--------|
+| Fast validation | Test your idea before building too much |
+| Save time | Don't build features nobody wants |
+| Learn from real users | Not guesses |
+| Iterate quickly | Improve based on feedback |
+
+### Questions Your MVP Should Answer
+
+| Question | Why It Matters |
+|----------|----------------|
+| Does this solve a real problem? | Validates the need |
+| Do people want to use it? | Confirms interest |
+| Do users understand how it works? | Tests UX |
+| What's missing most? | Prioritizes next steps |
+| Would people pay for this? | Validates business model |
+
+### MVP Checklist
+
+- [ ] App works (core features only)
 - [ ] Build UI one screen at a time
 - [ ] Standardize (buttons, cards) last
 
@@ -32,6 +62,19 @@ Build the app. It doesn't need to be perfect.
 
 **Why standardize last?** Doing it early limits creativity.
 
+### AI Tools for Vibecoding
+
+| Tool | Use For |
+|------|---------|
+| Claude Code | Coding, architecture, debugging |
+| Cursor / Windsurf | AI-first code editors |
+| v0.dev | Fast UI prototyping |
+| Bolt.new / Lovable | Fullstack app generation |
+| ChatGPT | Brainstorming, copy, research |
+| Midjourney / DALL-E | Visual content |
+
+**Warning:** bolt.new and rapidexpo gave bad UI output in our testing. Use with caution.
+
 ### Trap: Perfectionism
 
 Don't get stuck polishing. MVP means minimum viable — ship when it works, polish later. Set a time limit if needed.
@@ -40,7 +83,7 @@ Don't get stuck polishing. MVP means minimum viable — ship when it works, poli
 
 ---
 
-## Step 2: Screenshots
+## Phase 2: Screenshots
 
 When building in Expo, create Play Store images.
 
@@ -52,7 +95,7 @@ When building in Expo, create Play Store images.
 
 ---
 
-## Step 3: Closed Testing
+## Phase 3: Closed Testing
 
 Upload to Play Console and recruit testers.
 
@@ -119,7 +162,7 @@ Post everywhere. Some groups ban you — keep going until you find ones that wor
 
 ---
 
-## Step 4: Feedback & Patch
+## Phase 4: Feedback & Patch
 
 Collect feedback and fix in batches — not everything at once.
 
@@ -149,7 +192,7 @@ Don't update immediately after feedback. Wait, get distance, then decide with fr
 
 ---
 
-## Step 5: Go Live (ASO)
+## Phase 5: Go Live (ASO)
 
 Before going public, optimize your Play Store listing.
 
@@ -189,7 +232,7 @@ ASO = making your app findable and attractive in the store.
 
 ---
 
-## Step 6: Marketing
+## Phase 6: Marketing
 
 Build audience through Instagram. Test what works, then double down.
 
@@ -200,7 +243,11 @@ Key principles:
 - Post when your audience is scrolling (evening for US/UK)
 - 5-3-1 daily: Like 5, Comment 3, Follow 1
 
+> Details: [Marketing](marketing.md) — Week 1 calendar with all posts
+
 ---
+
+# Resources
 
 ## Templates
 
@@ -209,11 +256,7 @@ Key principles:
 | [BACKLOG.md](templates/BACKLOG.md) | Bugs, features, feedback |
 | [CHANGELOG.md](templates/CHANGELOG.md) | Shipped changes |
 
----
-
 ## Deep Dives
-
-Background and more details:
 
 - [Marketing](marketing.md) — Week 1 calendar with all posts
 - [Closed Testing](closed-testing.md) — case studies, day-by-day numbers
@@ -222,6 +265,8 @@ Background and more details:
 - [CNN & Backend](cnn.md) — ML, security, AI prompts
 
 ---
+
+# Lessons Learned
 
 ## Common Traps
 
@@ -233,8 +278,6 @@ Background and more details:
 | Using wrong channels | Niche forums > general channels |
 | Burning out on recruiting | Pace after day 3-4, still works |
 
----
-
 ## What Worked
 
 | Thing | Why |
@@ -244,8 +287,6 @@ Background and more details:
 | Screenshots while building | Easier than going back |
 | Niche forums | Validates demand + quality feedback |
 | Test-for-test | Works with fast replies |
-
----
 
 ## What Didn't Work
 
