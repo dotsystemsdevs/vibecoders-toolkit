@@ -1,67 +1,60 @@
 # MVP Guide
 
-Build the smallest version of your app that delivers value AND gives you feedback.
-
 ---
 
 ## What is an MVP?
 
-**Minimum Viable Product** = The smallest version that:
-- Solves a real problem
-- Can be used by real people
-- Gives you data to improve
+> "The version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort." — Eric Ries
+
+**Minimum Viable Product** = The smallest thing you can build that someone will pay for.
+
+Key word: **viable**. Until someone hands you money, you haven't proven viability.
 
 ---
 
-## Why MVP Matters
+## MVP vs Prototype vs Product
 
-| Reason | Impact |
-|--------|--------|
-| Fast validation | Test your idea before building too much |
-| Save time | Don't build features nobody wants |
-| Learn from real users | Not guesses |
-| Iterate quickly | Improve based on feedback |
+| Type | What it is | Who uses it |
+|------|------------|-------------|
+| **Prototype** | Visual draft, mockup, clickable demo | Internal team |
+| **MVP** | Functional product with core features | Real users who pay |
+| **Full Product** | Refined, scalable, polished | Mass market |
 
----
-
-## Questions Your MVP Should Answer
-
-| Question | Why It Matters |
-|----------|----------------|
-| Does this solve a real problem? | Validates the need |
-| Do people want to use it? | Confirms interest |
-| Do users understand how it works? | Tests UX |
-| What's missing most? | Prioritizes next steps |
-| Would people pay for this? | Validates business model |
+A prototype proves the concept works. An MVP proves people will pay.
 
 ---
 
-## The End Product
+## The Real Test
 
-Your MVP is done when you can check these boxes:
+Demos and positive feedback feel good. But they don't validate your product.
 
-### Core Requirements
+| What people say | What it means |
+|-----------------|---------------|
+| "This looks great!" | They like the idea |
+| "I would totally use this" | They might use it |
+| "Here's my credit card" | **Validated** |
 
-- [ ] **One core feature works** — not five half-working features
-- [ ] **User can complete the main flow** — start to finish without errors
-- [ ] **App doesn't crash** — stable enough for real testing
-- [ ] **Basic UI is usable** — doesn't need to be pretty, needs to be clear
+**The hard truth:** People love to say your product is great. But when you ask for the sale, something always comes up. Until money changes hands, you're guessing.
 
-### What MVP is NOT
+---
+
+## What MVP is NOT
 
 | MVP is NOT | MVP IS |
 |------------|--------|
 | Feature-complete | One thing that works |
 | Perfect design | Functional design |
 | Scalable architecture | Code that runs |
-| Edge cases handled | Happy path works |
+| All edge cases handled | Happy path works |
 | Polished animations | Basic feedback (loading, errors) |
 
-### Definition of Done
+---
 
-Your MVP is ready to ship when:
+## Definition of Done
 
-1. **Core feature works end-to-end**
+Your MVP is ready when:
+
+1. **One core feature works end-to-end**
 2. **You can demo it in 60 seconds**
 3. **A stranger can use it without your help**
 4. **You're slightly embarrassed** — if you're not, you waited too long
@@ -70,21 +63,82 @@ Your MVP is ready to ship when:
 
 ---
 
-## MVP Checklist
+## Real Examples
 
-- [ ] App works (core features only)
-- [ ] Build UI one screen at a time
-- [ ] Standardize (buttons, cards) last
+| Company | MVP | What they tested |
+|---------|-----|------------------|
+| **Uber** | SMS service to call a cab | Would people order rides via phone? |
+| **Dropbox** | Explainer video (no working product) | Is there demand for cloud sync? |
+| **Amazon** | Online bookstore from a garage | Will people buy books online? |
+| **Spotify** | Landing page with streaming test | Can we make playback fast and stable? |
 
-### UI Workflow
+None of these started with the full product. They tested one hypothesis first.
 
-1. Browse Pinterest for UI inspiration — save cards you like as a moodboard
-2. Ask AI: describe app + features → how should screens look?
-3. Build home screen first → refine until satisfied
-4. Continue screen by screen
-5. Settings last, then standardize components
+---
 
-**Why standardize last?** Doing it early limits creativity.
+## The Process
+
+```
+Pain point → Hypothesis → Build minimal → Test → Learn → Iterate
+```
+
+### 1. Identify the pain point
+
+What problem are you solving? Talk to potential users:
+- What do they currently do?
+- What frustrates them?
+- Would they pay to fix it?
+
+### 2. Define your hypothesis
+
+"If I build [X], then [target user] will pay [Y] because it solves [Z]."
+
+Be specific. Vague hypotheses lead to vague products.
+
+### 3. Build the minimum
+
+Only what's needed to test your hypothesis. Nothing more.
+
+### 4. Test with real users
+
+Not friends. Not family. People who have the problem and would pay to solve it.
+
+### 5. Measure what matters
+
+- Did they use it?
+- Did they pay?
+- Did they come back?
+- What did they complain about?
+
+### 6. Iterate or pivot
+
+If it works, add more. If it doesn't, change direction.
+
+---
+
+## Common Mistakes
+
+| Mistake | Why it fails |
+|---------|--------------|
+| Adding too many features | Dilutes focus, delays launch |
+| Not launching early enough | Waiting for perfect = never launching |
+| Ignoring feedback | Building blind |
+| Confusing interest with validation | "Looks great" ≠ "I'll pay" |
+| Building for the wrong users | Early adopters ≠ target market |
+
+---
+
+## Time Limits
+
+If you're still "almost done" after 3 weeks, you're overbuilding.
+
+| Week | Goal |
+|------|------|
+| 1 | Core feature working |
+| 2 | Basic UI + internal testing |
+| 3 | Ship to real users |
+
+Set a deadline. Ship ugly. Learn fast.
 
 ---
 
@@ -101,26 +155,13 @@ Your MVP is ready to ship when:
 
 ---
 
-## Trap: Perfectionism
-
-Don't get stuck polishing. MVP means minimum viable — ship when it works, polish later.
-
-Set a time limit if needed:
-- **Week 1:** Core feature working
-- **Week 2:** Basic UI + testing
-- **Week 3:** Ship to closed testing
-
-If you're still "almost done" after 3 weeks, you're overbuilding.
-
----
-
 ## Next Steps
 
-Once your MVP is ready:
-1. Take screenshots → [Screenshots Guide](README.md#phase-2-screenshots)
+Once your MVP is validated:
+1. Take screenshots → [Phase 2](README.md#phase-2-screenshots)
 2. Upload to Play Console → [Closed Testing](closed-testing.md)
 3. Get feedback → [Feedback Guide](feedback.md)
 
 ---
 
-*Ship MVP first, polish later.*
+*Ship first. Polish later.*
