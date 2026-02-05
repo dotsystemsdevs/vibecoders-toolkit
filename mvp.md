@@ -88,67 +88,16 @@ Your MVP is ready to ship when:
 
 ---
 
-## AI Stack for Vibecoding
+## AI Models
 
-Different AI tools are better for different tasks. Here's what works:
-
-### Anthropic (Claude) — Best for Code
-
-| Use Case | Why Anthropic |
-|----------|---------------|
-| Writing code | Better reasoning, fewer bugs |
-| Debugging | Finds root cause, not just symptoms |
-| Architecture decisions | Understands tradeoffs |
-| Refactoring | Cleaner, more maintainable code |
-| Code review | Catches edge cases |
-
-**Best models:**
-- **Claude Opus 4.5** — Complex architecture, hard bugs
-- **Claude Sonnet 4.5** — Daily coding, fast + smart
-- **Claude Code (CLI)** — Terminal-based coding assistant
-
-### OpenAI (ChatGPT) — Best for Content & Ideas
-
-| Use Case | Why OpenAI |
-|----------|------------|
-| Brainstorming | Creative, lots of ideas fast |
-| Marketing copy | Good at persuasive writing |
-| User research | Summarizing feedback |
-| Documentation | Clear explanations |
-| App store descriptions | SEO-friendly text |
-
-**Best models:**
-- **GPT-5** — General tasks, creative work
-- **GPT-4o** — Fast responses, good enough for most
-
-### Other Tools
-
-| Tool | Best For |
-|------|----------|
-| **Cursor / Windsurf** | AI-first code editors (uses Claude or GPT) |
-| **v0.dev** | Fast UI prototyping with React |
-| **Bolt.new / Lovable** | Fullstack app generation (hit or miss) |
-| **Midjourney** | App icons, marketing images |
-| **DALL-E** | Quick visuals, screenshots mockups |
-
-### The Stack We Use
-
-```
-Planning & Ideas     → ChatGPT
-Coding & Debugging   → Claude Code / Cursor
-UI Prototypes        → v0.dev
-Icons & Graphics     → Midjourney
-```
-
-### Warning: What Didn't Work
-
-| Tool | Problem |
-|------|---------|
-| bolt.new | Bad UI output, wastes credits |
-| rapidexpo | Unreliable, poor quality |
-| "Do what you think is best" | Vague prompts = bad results |
-
-**Key insight:** Be specific with AI. Don't say "make it better" — say exactly what you want changed.
+| Model | Best For |
+|-------|----------|
+| Claude Sonnet 4.5 | Coding, debugging, refactoring |
+| Claude Opus 4.5 | Complex architecture, hard problems |
+| GPT-5 | Brainstorming, marketing copy, ideas |
+| GPT-4o | Quick tasks, good enough for most |
+| v0.dev | UI prototypes (React) |
+| Midjourney | Icons, graphics |
 
 ---
 

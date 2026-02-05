@@ -33,16 +33,7 @@ Your MVP is ready when you're slightly embarrassed by it. If you're not, you wai
 
 > "If you're not embarrassed by the first version of your product, you've launched too late." — Reid Hoffman
 
-### AI Stack
-
-| Task | Best Tool |
-|------|-----------|
-| Coding & debugging | **Anthropic (Claude)** — better reasoning, fewer bugs |
-| Brainstorming & copy | **OpenAI (ChatGPT)** — creative, fast ideas |
-| UI prototypes | **v0.dev** — React components fast |
-| Graphics | **Midjourney** — icons, marketing images |
-
-> **Full guide:** [MVP Guide](mvp.md) — end product definition, AI stack details, workflow
+> **Full guide:** [MVP Guide](mvp.md) — end product, AI models, workflow
 
 ---
 
