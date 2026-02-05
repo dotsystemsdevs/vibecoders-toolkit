@@ -20,66 +20,29 @@ Everything below follows this roadmap. Each phase builds on the previous.
 
 Build the smallest version of your app that delivers value AND gives you feedback.
 
-### What is an MVP?
+### Quick Checklist
 
-**Minimum Viable Product** = The smallest version that:
-- Solves a real problem
-- Can be used by real people
-- Gives you data to improve
+- [ ] **One core feature works** end-to-end
+- [ ] **User can complete the main flow** without errors
+- [ ] **You can demo it in 60 seconds**
+- [ ] **A stranger can use it** without your help
 
-### Why MVP Matters
+### Definition of Done
 
-| Reason | Impact |
-|--------|--------|
-| Fast validation | Test your idea before building too much |
-| Save time | Don't build features nobody wants |
-| Learn from real users | Not guesses |
-| Iterate quickly | Improve based on feedback |
+Your MVP is ready when you're slightly embarrassed by it. If you're not, you waited too long.
 
-### Questions Your MVP Should Answer
+> "If you're not embarrassed by the first version of your product, you've launched too late." — Reid Hoffman
 
-| Question | Why It Matters |
-|----------|----------------|
-| Does this solve a real problem? | Validates the need |
-| Do people want to use it? | Confirms interest |
-| Do users understand how it works? | Tests UX |
-| What's missing most? | Prioritizes next steps |
-| Would people pay for this? | Validates business model |
+### AI Stack
 
-### MVP Checklist
+| Task | Best Tool |
+|------|-----------|
+| Coding & debugging | **Anthropic (Claude)** — better reasoning, fewer bugs |
+| Brainstorming & copy | **OpenAI (ChatGPT)** — creative, fast ideas |
+| UI prototypes | **v0.dev** — React components fast |
+| Graphics | **Midjourney** — icons, marketing images |
 
-- [ ] App works (core features only)
-- [ ] Build UI one screen at a time
-- [ ] Standardize (buttons, cards) last
-
-### UI Workflow
-
-1. Browse Pinterest for UI inspiration — save cards you like as a moodboard
-2. Ask AI: describe app + features → how should screens look?
-3. Build home screen first → refine until satisfied
-4. Continue screen by screen
-5. Settings last, then standardize components
-
-**Why standardize last?** Doing it early limits creativity.
-
-### AI Tools for Vibecoding
-
-| Tool | Use For |
-|------|---------|
-| Claude Code | Coding, architecture, debugging |
-| Cursor / Windsurf | AI-first code editors |
-| v0.dev | Fast UI prototyping |
-| Bolt.new / Lovable | Fullstack app generation |
-| ChatGPT | Brainstorming, copy, research |
-| Midjourney / DALL-E | Visual content |
-
-**Warning:** bolt.new and rapidexpo gave bad UI output in our testing. Use with caution.
-
-### Trap: Perfectionism
-
-Don't get stuck polishing. MVP means minimum viable — ship when it works, polish later. Set a time limit if needed.
-
-> Details: [UI & UX](ui-ux.md)
+> **Full guide:** [MVP Guide](mvp.md) — end product definition, AI stack details, workflow
 
 ---
 
@@ -258,6 +221,7 @@ Key principles:
 
 ## Deep Dives
 
+- [MVP Guide](mvp.md) — end product definition, AI stack, workflow
 - [Marketing](marketing.md) — Week 1 calendar with all posts
 - [Closed Testing](closed-testing.md) — case studies, day-by-day numbers
 - [Feedback](feedback.md) — change management process
