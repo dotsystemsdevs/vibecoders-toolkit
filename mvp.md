@@ -142,6 +142,88 @@ Set a deadline. Ship ugly. Learn fast.
 
 ---
 
+## Vibe Coding
+
+Using AI to build fast. Let AI handle implementation while you focus on what to build.
+
+### What It Is
+
+> "You talk to your code, accept LLM suggestions, copy-paste error messages, and pray it works. And it mostly does." — Andrej Karpathy
+
+**Vibe coding** = AI-assisted development where you describe what you want and AI generates the code.
+
+### What It Is NOT
+
+- Pasting prompts and hoping for the best
+- Shipping code you don't understand
+- Bypassing security or architecture
+- Letting AI make all decisions
+
+**Key rule:** If you can't read the code AI generates, don't ship it.
+
+### The Loop
+
+```
+Describe → Generate → Review → Test → Repeat
+```
+
+1. **Describe** what you want to build (be specific)
+2. **AI generates** initial implementation
+3. **You review** and correct mistakes
+4. **Test immediately** — don't batch
+5. **Commit frequently** — small atomic commits
+
+### When It Works
+
+| Use Case | Why |
+|----------|-----|
+| Demos and prototypes | Fast validation, throwaway code OK |
+| Landing pages | Simple, low risk |
+| Internal tools | Less security pressure |
+| Learning/exploring | Rapid iteration |
+
+### When It Doesn't
+
+| Use Case | Why |
+|----------|-----|
+| Production with real user data | Security vulnerabilities |
+| Complex backends | AI creates inconsistent mess as codebase grows |
+| Anything with payments | Too risky without expert review |
+| Scaling beyond 100 users | Architecture breaks |
+
+### Non-Technical Founders
+
+**Reality check from Reddit:**
+
+> "I haven't seen anybody who vibecoded entire applications without knowing coding. I have seen landing pages that are vibecoded."
+
+| Approach | Works For |
+|----------|-----------|
+| Vibe code a demo | Getting initial feedback, showing investors |
+| Vibe code MVP, hire devs later | Validating idea cheap, then rebuilding properly |
+| Hire dev from start | Complex products, security-critical, B2B |
+
+**The honest truth:** Vibe coding is great for demos. For real MVPs with paying users, most non-technical founders eventually need dev help — either to review/fix AI code or rebuild from scratch.
+
+### Tradeoffs
+
+| Pro | Con |
+|-----|-----|
+| 10x faster to prototype | Security holes you won't catch |
+| Lower barrier to start | Technical debt accumulates fast |
+| Instant context recovery | AI makes poor decisions as code grows |
+| Validates ideas cheap | May need full rewrite later |
+
+### If You Vibe Code
+
+1. **Plan first** — Create implementation plan before coding
+2. **Be specific** — Vague prompts = bad code
+3. **Review everything** — Don't blindly accept
+4. **Test constantly** — Don't batch testing
+5. **Know when to stop** — Get dev help before users pay
+
+---
+
 ## AI Models
 
 | Model | Best For |
@@ -152,6 +234,16 @@ Set a deadline. Ship ugly. Learn fast.
 | GPT-4o | Quick tasks, good enough for most |
 | v0.dev | UI prototypes (React) |
 | Midjourney | Icons, graphics |
+
+### Vibe Coding Tools
+
+| Tool | What it does |
+|------|--------------|
+| Cursor | AI-enhanced VS Code fork, best for coding |
+| Windsurf | Standalone AI editor, good flow |
+| Claude Code | Terminal-based, powerful for devs |
+| Bolt.new | Full app generation (hit or miss) |
+| Lovable | Similar to Bolt, generates full apps |
 
 ---
 
