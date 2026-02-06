@@ -43,28 +43,39 @@ Real numbers from all 3 apps on Google Play. Updated regularly to track what's w
 
 ---
 
-## Daily installed audience
+## Daily installed audience (by day number)
 
-| Date | Mulligan | Lotty | Slothy |
-|------|----------|-------|--------|
-| Jan 9 | — | 1 | — |
-| Jan 10 | — | 25 | — |
-| Jan 11 | — | 42 | — |
-| Jan 12 | — | 56 | — |
-| Jan 15 | — | 69 | — |
-| Jan 16 | 56 | — | — |
-| Jan 17 | 66 | — | — |
-| Jan 18 | 69 | — | — |
-| Jan 19 | 89 | — | — |
-| Jan 20 | **92** | 75 | — |
-| Jan 21 | 37 | — | — |
-| Jan 24 | 45 | **88** | — |
-| Jan 27 | 24 | — | — |
-| Jan 28 | — | 73 | — |
-| Jan 30 | 25 | — | — |
-| Feb 1 | — | 65 | — |
-| Feb 2 | 37 | — | — |
-| Feb 4 | 32 | 53 | 32 |
+Lotty Day 1 = Jan 9 · Mulligan Day 1 = Jan 16 · Slothy Day 1 = Feb 4
+
+| Day | Lotty | Mulligan | Slothy |
+|-----|-------|----------|--------|
+| 1 | 1 | 56 | 32 |
+| 2 | 25 | 66 | — |
+| 3 | 42 | 69 | — |
+| 4 | 56 | 89 | — |
+| 5 | 71 | **92** | — |
+| 6 | 73 | 37 | — |
+| 7 | 69 | — | — |
+| 8 | 73 | — | — |
+| 9 | 68 | 45 | — |
+| 10 | 70 | — | — |
+| 11 | 69 | — | — |
+| 12 | 75 | 24 | — |
+| 13 | 77 | — | — |
+| 14 | 82 | — | — |
+| 15 | 84 | 25 | — |
+| 16 | **88** | — | — |
+| 17 | 78 | — | — |
+| 18 | 77 | 37 | — |
+| 19 | 74 | — | — |
+| 20 | 73 | 32 | — |
+| 21 | 72 | — | — |
+| 22 | 67 | — | — |
+| 23 | 63 | — | — |
+| 24 | 65 | — | — |
+| 25 | 54 | — | — |
+| 26 | 52 | — | — |
+| 27 | 53 | — | — |
 
 ---
 
@@ -73,11 +84,11 @@ Real numbers from all 3 apps on Google Play. Updated regularly to track what's w
 | Metric | Mulligan | Lotty |
 |--------|----------|-------|
 | Peak users | 92 | 88 |
-| Peak date | Jan 20 | Jan 24 |
+| Peak day | Day 5 | Day 16 |
 | Current | 32 | 53 |
 | Drop from peak | -65% | -40% |
 
-**Insight:** Peak during test-for-test recruiting, then drop. Lotty retains better (-40% vs -65%). Finance apps have daily use case, golf is seasonal.
+**Insight:** Mulligan peaks early (Day 5) then drops hard. Lotty peaks later (Day 16) and retains better. Finance apps have daily use case, golf is seasonal.
 
 ---
 
