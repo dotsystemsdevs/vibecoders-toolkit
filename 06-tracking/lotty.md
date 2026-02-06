@@ -18,4 +18,21 @@ Profit & Loss Tracker
 
 ---
 
+## Daily Installed Audience
+
+| Date | Users |
+|------|-------|
+| Jan 9 | 1 |
+| Jan 10 | 25 |
+| Jan 11 | 42 |
+| Jan 12 | 56 |
+| Jan 15 | 69 |
+| Jan 20 | 75 |
+| Jan 24 | 88 (peak) |
+| Jan 28 | 73 |
+| Feb 1 | 65 |
+| Feb 4 | 53 |
+
+---
+
 *Updated: Feb 6, 2026*
