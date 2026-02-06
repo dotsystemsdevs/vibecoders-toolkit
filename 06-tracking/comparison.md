@@ -1,4 +1,4 @@
-# All Apps
+# All Apps (Android / Play Store)
 
 ---
 
@@ -9,12 +9,18 @@
 | Status | Production | Production | Testing |
 | Testing group | 136 | 105 | 53 |
 | Device acquisitions | 140 | 105 | — |
+| First opens | 85 | 90 | — |
 | MAU | 131 | 101 | — |
+| DAU (avg) | 11 | 11 | — |
 | 7-day retention | 12 | 17 | — |
 | Conversion rate | 87% | 57% | — |
+| Store listing conversion | 40.5% | 35.7% | — |
 | Production installs | 33 | 43 | — |
+| Active devices | 24 | 62 | — |
 | Install base | 42% | 81% | — |
 | IG followers | 6 | — | 12 |
+
+**Insight:** Mulligan acquires more (140 vs 105) but Lotty retains better — 62 active devices vs 24. Same DAU (11) means Lotty's smaller base is more engaged. Mulligan loses 39% at first open (85/140), Lotty only 14% (90/105). Fix Mulligan's onboarding.
 
 ---
 
@@ -67,7 +73,7 @@
 | Current | 32 | 53 |
 | Drop from peak | -65% | -40% |
 
-**Insight:** Peak during test-for-test, then ~50% drop. Normal.
+**Insight:** Peak during test-for-test, then drop. Lotty retains better (-40% vs -65%). Lotty now has 62 active devices vs Mulligan's 24 — confirms the pattern. Finance apps have daily use case, golf is seasonal.
 
 ---
 
@@ -86,6 +92,12 @@
 | Dev | Relatable | 110 | 52% |
 
 **What works:** "Send to someone" CTA = 80%+ non-followers
+
+### Learnings
+
+- "Send to someone" CTA = 80%+ non-followers
+- 0% skip + 5x loop = quality content
+- 0 profile visits = need "Follow for more" CTA
 
 ---
 
