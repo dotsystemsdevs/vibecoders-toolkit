@@ -6,4 +6,5 @@ All real numbers in one place.
 |------|------|
 | [mulligan](mulligan.md) | Mulligan stats |
 | [slothy](slothy.md) | Slothy stats |
+| [lotty](lotty.md) | Lotty stats |
 | [instagram](instagram.md) | Social media stats |
