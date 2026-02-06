@@ -5,7 +5,12 @@
 | Metric | Value |
 |--------|-------|
 | Testing group | 110 |
+| Testers opted-in | 12 |
+| Days in testing | 2 |
+| Installed audience | 32 |
 | Followers (IG) | 12 |
+
+**Status:** Closed testing (need 14 days for production)
 
 ---
 

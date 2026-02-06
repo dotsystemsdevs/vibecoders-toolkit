@@ -6,6 +6,7 @@ Profit & Loss Tracker
 
 | Metric | Value |
 |--------|-------|
+| Testing group | 105 |
 | Device acquisitions | 105 |
 | First opens | 88 |
 | MAU | 101 |
