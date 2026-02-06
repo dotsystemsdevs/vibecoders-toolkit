@@ -1,4 +1,8 @@
-# All Apps (Android / Play Store)
+# All Apps — Tracking
+
+## Background
+
+Real numbers from all 3 apps on Google Play. Updated regularly to track what's working and what's not.
 
 ---
 
@@ -20,11 +24,11 @@
 | Install base | 42% | 81% | — |
 | IG followers | 6 | — | 12 |
 
-**Insight:** Mulligan acquires more (140 vs 105) but Lotty retains better — 62 active devices vs 24. Same DAU (11) means Lotty's smaller base is more engaged. Mulligan loses 39% at first open (85/140), Lotty only 14% (90/105). Fix Mulligan's onboarding.
+**Insight:** Mulligan acquires more (140 vs 105) but Lotty retains better — 62 active devices vs 24. Same DAU (11) means Lotty's smaller base is more engaged. Finance apps have daily use case, golf is seasonal.
 
 ---
 
-## Testing Phase (Days to reach testers)
+## Testing phase — days to reach testers
 
 | Day | Mulligan | Lotty | Slothy |
 |-----|----------|-------|--------|
@@ -35,11 +39,11 @@
 | 7 | — | — | 96 |
 | 12 | — | — | 110 |
 
-**Winner:** Mulligan (130 in 6 days)
+**Winner:** Mulligan (130 in 6 days) — niche forums made the difference.
 
 ---
 
-## Daily Installed Audience
+## Daily installed audience
 
 | Date | Mulligan | Lotty | Slothy |
 |------|----------|-------|--------|
@@ -64,7 +68,7 @@
 
 ---
 
-## Patterns
+## Retention patterns
 
 | Metric | Mulligan | Lotty |
 |--------|----------|-------|
@@ -73,7 +77,7 @@
 | Current | 32 | 53 |
 | Drop from peak | -65% | -40% |
 
-**Insight:** Peak during test-for-test, then drop. Lotty retains better (-40% vs -65%). Lotty now has 62 active devices vs Mulligan's 24 — confirms the pattern. Finance apps have daily use case, golf is seasonal.
+**Insight:** Peak during test-for-test recruiting, then drop. Lotty retains better (-40% vs -65%). Finance apps have daily use case, golf is seasonal.
 
 ---
 
@@ -83,7 +87,7 @@
 |------|--------|----------|-----|
 | Feb 6 | 12 | 6 | 819 |
 
-### Best Reels
+### Best reels
 
 | Account | Type | Views | Non-followers |
 |---------|------|-------|---------------|
@@ -91,21 +95,15 @@
 | Mulligan | Share-CTA | 175 | 94% |
 | Dev | Relatable | 110 | 52% |
 
-**What works:** "Send to someone" CTA = 80%+ non-followers
-
-### Learnings
-
-- "Send to someone" CTA = 80%+ non-followers
-- 0% skip + 5x loop = quality content
-- 0 profile visits = need "Follow for more" CTA
+**What works:** "Send to someone" CTA = 80%+ non-followers.
 
 ---
 
-## Slothy Status
+## Slothy status
 
 | Metric | Value |
 |--------|-------|
-| Testers opted-in | 12 |
+| Testers opted-in | 53 |
 | Days in testing | 2 of 14 |
 | Days left | 12 |
 

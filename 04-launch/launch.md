@@ -1,41 +1,35 @@
-# 04 Launch
+# Launch
 
-Going from closed testing to production.
+## Background
+
+Launch is moving from closed testing to production on Google Play. It's not the finish line — it's where the real work starts.
 
 ---
 
-## Before launch
+## Do this
+
+### Before launch
 
 - [ ] 100+ testers in closed testing
 - [ ] Major bugs fixed
 - [ ] Store listing ready
 - [ ] Screenshots polished
-- [ ] Privacy policy URL
+- [ ] Privacy policy URL live
 
----
+### Store listing
 
-## Store listing
+**App name:** Short, includes keyword, no jargon.
 
-### App name
-- Keep it short
-- Include keyword
-- No jargon
-
-### Description
+**Description:**
 ```
 Line 1: What it does (hook)
 Line 2-3: Key features
 Line 4: CTA
 ```
 
-### Screenshots
-- Show the app in use
-- Add text overlays
-- First screenshot = most important
+**Screenshots:** Show the app in use. Add text overlays. First screenshot = most important.
 
----
-
-## ASO (App Store Optimization)
+### ASO (App Store Optimization)
 
 | Element | Impact |
 |---------|--------|
@@ -44,9 +38,7 @@ Line 4: CTA
 | Description | Medium |
 | Reviews | High |
 
----
-
-## Launch day
+### Launch day
 
 - [ ] Submit for review
 - [ ] Prepare social posts
@@ -54,14 +46,18 @@ Line 4: CTA
 - [ ] Post in niche communities
 - [ ] Monitor crash reports
 
----
-
-## After launch
+### After launch
 
 - [ ] Respond to reviews
 - [ ] Fix critical bugs fast
 - [ ] Plan next update
 - [ ] Track retention
+
+---
+
+## Evidence
+
+Both Mulligan and Lotty went from closed testing to production. Lotty with 110 testers, Mulligan with 136. Both approved without issues. The key was having enough testers and fixing the obvious bugs before submitting.
 
 ---
 

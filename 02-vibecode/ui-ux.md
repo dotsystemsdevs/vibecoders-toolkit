@@ -1,74 +1,59 @@
 # UI & UX
 
-How to build UI without getting stuck in perfectionism.
+## Background
+
+UI perfectionism is the #1 time killer for indie devs. You don't need a design system. You need screens that work.
 
 ---
 
-## UI building method
+## Do this
+
+### Build screen by screen
 
 | Step | Action |
 |------|--------|
-| 1 | Tell ChatGPT: app, backend, key features → ask how screens should look (content + copy) |
-| 2 | Build home screen → refine until satisfied |
-| 3 | Continue screen by screen, don't move on until satisfied |
-| 4 | At the end: review all screens, minor improvements |
-| 5 | Last = settings, then standardize (cards, buttons etc.) |
+| 1 | Describe app + key features to AI, ask how screens should look |
+| 2 | Build home screen first, refine until satisfied |
+| 3 | Continue screen by screen — don't move on until it works |
+| 4 | At the end: review all screens, minor tweaks |
+| 5 | Last = settings, then standardize (cards, buttons, colors) |
 
-**Why standardize last?** Doing it early limits your creativity.
+**Why standardize last?** Doing it early limits your creativity. Get the screens right first.
 
-**Action:** Build one screen at a time. Standardize at the end.
+### Content & copy
+
+| Rule | Why |
+|------|-----|
+| Write copy yourself first | GPT-copy feels fake, people notice |
+| Use AI only for translation/polish | Keeps it authentic |
+| Take screenshots during the day | Content for Instagram later |
 
 ---
 
 ## Tools that did NOT work
 
-| Tool | Problem | Action |
-|------|---------|--------|
-| bolt.new | Not satisfied with UI, wastes credits | Skip it |
+| Tool | Problem | What to do instead |
+|------|---------|-------------------|
+| bolt.new | Bad UI, wasted credits | Build screen by screen in Claude |
 | rapidexpo | Same problem | Skip it |
-| Plan mode "build all components" | Ugly, hard to change, errors | Build screen by screen instead |
-
----
-
-## Content & Instagram
-
-| Observation | Action |
-|-------------|--------|
-| Low response initially (0 likes) | Don't expect immediate results |
-| GPT-copy feels bad | Write yourself first, use AI only for translation |
-| Need content | Take more screenshots during the day |
-| People notice fake | Keep it authentic |
-
-**Action:** Write copy yourself. Use AI for translation only.
-
----
-
-## Productivity
-
-| Observation | Action |
-|-------------|--------|
-| Most effective in the morning | Do hard work in the morning |
-| Dip after workout | Move workout to after other work |
-| Hard to follow schedule with many tabs | Reduce distractions |
-| UI perfectionism | Set time limit, ship "good enough" |
-| Reddit addiction | Schedule Reddit time (not 24/7) |
-| Risk of burnout | Plan rest days |
-
-**Action:** Know your energy patterns. Schedule around them.
-
----
-
-## Common mistakes
-
-| Mistake | What happened | Action |
-|---------|---------------|--------|
-| UI perfectionism | Got stuck, frustrated | Ship first, polish later |
-| GPT for all copy | Felt bad, took time | Write yourself, AI for polish |
-| Reddit 24/7 | Hard to stop | Schedule specific time |
-| bolt.new / rapidexpo | Wasted credits | Build screen by screen in Claude |
-| Post in UX/UI groups | Ban + bullied | Use the right forum for the right purpose |
+| "Build all components at once" | Ugly, errors, hard to change | One screen at a time |
+| Posting in UX/UI groups | Got banned + bullied | Use the right forum for the right purpose |
 | Discord/Telegram for recruiting | Almost no response | Focus on Reddit |
 
 ---
 
-*Real experiences only. Nothing made up.*
+## Evidence
+
+### Productivity patterns we found
+
+| Observation | What we do now |
+|-------------|---------------|
+| Most effective in the morning | Hard work before lunch |
+| Dip after workout | Workout after other work |
+| UI perfectionism kills momentum | Set time limit, ship "good enough" |
+| Reddit addiction | Scheduled Reddit time, not 24/7 |
+| Risk of burnout | Planned rest days |
+
+---
+
+*Ship first. Polish later.*

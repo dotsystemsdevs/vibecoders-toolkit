@@ -1,50 +1,28 @@
 # Closed Testing
 
-How to get your app into Play Store closed testing and recruit testers.
+## Background
+
+Google Play requires closed testing before production. You need real testers using your app for 14 days. This is where you find bugs, validate demand, and learn what users actually do.
 
 ---
 
-## Before closed testing
+## Do this
 
-### Checklist
+### Before you start
 
 - [ ] App works (doesn't need to be perfect)
-- [ ] Play Store images ready (Figma)
+- [ ] Play Store screenshots ready (Figma)
 - [ ] AAB built and uploaded
 - [ ] Closed testing group created in Play Console
 
-### Tools
-
-| Tool | Use |
-|------|-----|
-| Figma | Screenshots + basic branding for Play Store |
-| GitHub | Version control + backlog + branches + CI/CD |
-| Play Console | Closed testing |
-
-**Action:** Don't wait for perfection. Ship when it works.
-
----
-
-## Why closed testing first?
-
-| Reason | Action |
-|--------|--------|
-| Get feedback before going live | Ship to closed test, not production |
-| Find bugs early | Let real users break it |
-| Validate the need exists | Post in niche forums to confirm demand |
-
----
-
-## Targets
+### Targets
 
 | Metric | Target | Why |
 |--------|--------|-----|
 | Members | 30+ | Enough data for decisions |
 | Timeline | ~2 weeks | Before next major update |
 
----
-
-## Naming
+### Naming matters
 
 Neutral names reach broader audiences.
 
@@ -53,55 +31,38 @@ Neutral names reach broader audiences.
 | "lotty-tracker" | "win/loss tracker" | Broader appeal |
 | "Lost Ball Counter" | "Mulligan: The Real Scorecard" | More professional |
 
-**Action:** Remove niche jargon from app name. Keep it generic.
+### Recruit testers
 
----
+**What works:**
 
-## Recruit testers
+| Channel | Result |
+|---------|--------|
+| r/AndroidClosedTesting | Best results, start here |
+| Niche forums (golf, finance, etc.) | Great feedback + validates demand |
+| Reddit test-for-test | Works if you reply fast |
 
-### What worked
+**What does NOT work:**
 
-| Channel | Result | Action |
-|---------|--------|--------|
-| r/AndroidClosedTesting | Best results | Post here first |
-| Niche forums (e.g. golf forums) | Great feedback + validates need | Post to get quality feedback |
-| Reddit test-for-test | Works with right strategy | Reply fast, be active |
-
-### What did NOT work
-
-| Channel | Result | Action |
-|---------|--------|--------|
-| Discord | 1 person | Skip it |
-| Telegram | No response | Skip it |
-| Reddit UX/UI groups | Ban + negative response | Never post here for testers |
+| Channel | Result |
+|---------|--------|
+| Discord | 1 person |
+| Telegram | No response |
+| Reddit UX/UI groups | Ban + negative response |
 
 ### Strategy
 
-| Step | Action |
-|------|--------|
-| 1 | Post in r/AndroidClosedTesting |
-| 2 | Turn on notifications |
-| 3 | Reply fast to "test for test" comments |
-| 4 | Schedule Reddit time (avoid 24/7) |
-| 5 | Be active when USA is awake |
-| 6 | Send ~15 messages per day |
-
-### Key insights
-
-| Observation | Action |
-|-------------|--------|
-| Less effort after day 3-4 still gave results | Don't burn out early, pace yourself |
-| Testers go inactive after 14 days | Plan for churn, keep recruiting |
-| Test-for-test requires reciprocation | Budget time to test others' apps |
-| Niche forums = goldmine | Always post in forums where your users are |
+1. Post in r/AndroidClosedTesting
+2. Turn on notifications
+3. Reply fast to "test for test" comments
+4. Be active when USA is awake
+5. Send ~15 messages per day
+6. Schedule Reddit time — avoid 24/7
 
 ---
 
-## Case study: Lotty
+## Evidence
 
-Win/loss tracker app. Closed testing → approved in Play Store.
-
-### Growth (members in Google group)
+### Lotty — 110 testers in 12 days
 
 | Day | Members | Active users |
 |-----|---------|--------------|
@@ -110,31 +71,26 @@ Win/loss tracker app. Closed testing → approved in Play Store.
 | 3 | 57 | 41 |
 | 4 | 73 | 53 |
 | 5 | 86 | 70 |
-| 6 | 90 | 69 |
 | 7 | 96 | 71 |
-| 12 | 110 | ~12 (some days) |
+| 12 | 110 | ~12 |
 
-### Key insights
-
-| Observation | Action |
-|-------------|--------|
-| Less effort after day 3-4 still gave results | Pace yourself, don't burn out early |
-| Approved with 110 members | 100+ members is enough for approval |
-| Active testers vary a lot (12-71 per day) | Don't stress about daily numbers |
-
-### Mulligan (comparison)
-
-Golf app. Posted in golf forums → great feedback + improvement suggestions. Need validated.
+### Mulligan — 130 testers in 6 days
 
 | Day | Members |
 |-----|---------|
 | 1 | 28 |
 | 2 | 44 |
 | 3 | 67 |
-| 6 | 130 installs |
+| 6 | 130 |
 
-**Action:** Post in niche forums. They validate demand AND give better feedback.
+Mulligan grew faster because we posted in golf forums — niche communities validate demand AND give better feedback.
 
----
+### Key patterns
 
-*Real experiences only. Nothing made up.*
+| Observation | What we do now |
+|-------------|---------------|
+| Less effort after day 3-4 still gave results | Pace yourself, don't burn out early |
+| Testers go inactive after 14 days | Plan for churn, keep recruiting |
+| Test-for-test requires reciprocation | Budget time to test others' apps |
+| Niche forums = goldmine | Always post where your users are |
+| 100+ members is enough for approval | Don't over-recruit |

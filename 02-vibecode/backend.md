@@ -1,45 +1,40 @@
-# CNN & Backend
+# Backend & Security
 
-Learnings from building ML models and backend services.
+## Background
+
+Vibecoding works great for frontends and MVPs. But the moment you add a backend, the risk goes up. AI-generated backend code often has security vulnerabilities.
 
 ---
 
-## Plan mode strategy
+## Do this
+
+### Plan mode strategy
 
 | Step | Action |
 |------|--------|
 | 1 | Write high-level plan with steps all the way to production |
-| 2 | When starting a step → ask AI to write detailed sub-steps |
+| 2 | When starting a step, ask AI to write detailed sub-steps |
 | 3 | Give AI sub-steps one at a time |
 | 4 | Ask what you can do in parallel |
 
-| Mistake | Better approach |
-|---------|-----------------|
-| "Do what you think is best" | Be specific, steer the plan yourself |
-| Letting AI decide architecture | The more you know, the better you prompt |
+### Security checklist
 
-**Action:** Never say "do what you think is best". Always be specific.
-
----
-
-## Backend & security
-
-| Observation | Action |
-|-------------|--------|
-| "Vibecoding" with backend creates vulnerabilities | Always analyze security when building with backend |
-| Need version control discipline | Use GitHub branches + CI/CD |
-| Need local testing | Build HTML page for diagnostics |
-
-**Action:** If you have a backend, do a security review before shipping.
+- [ ] Review all API endpoints for auth
+- [ ] Check for SQL injection, XSS
+- [ ] Use environment variables for secrets
+- [ ] Test with invalid inputs
+- [ ] Do a security review before shipping
 
 ---
 
-## Common mistakes
+## Mistakes we made
 
-| Mistake | What happened | Action |
-|---------|---------------|--------|
-| "Do what you think is best" to AI | Bad results | Be specific, steer the plan yourself |
+| Mistake | What happened | What to do instead |
+|---------|---------------|-------------------|
+| "Do what you think is best" to AI | Bad architecture, bad results | Be specific, steer the plan yourself |
+| Skipping security review | Shipped with vulnerabilities | Always review backend security |
+| No version control discipline | Lost work, messy history | Use branches + commit often |
 
 ---
 
-*Real experiences only. Nothing made up.*
+*The more you know, the better you prompt.*

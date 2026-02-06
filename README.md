@@ -1,42 +1,47 @@
 # Vibecoders Toolkit
 
-I shipped 2 apps in 3 weeks with $0 budget. This is how.
+I shipped 3 apps to Google Play with $0 budget. This is the full playbook.
 
 ---
 
 ## Start Here
 
-1. **Today:** Read [what-is-mvp](01-mvp/what-is-mvp.md) — 2 min
-2. **This week:** Build ONE feature that works
-3. **Next week:** Get 20 testers via [testing guide](03-testing/android.md)
+1. Read [what-is-mvp](01-mvp/what-is-mvp.md) — 2 min
+2. Build ONE feature that works
+3. Get 20 testers via the [testing guide](03-testing/android.md)
 
 ---
 
 ## The Flow
 
 ```
-01 MVP → 02 Vibecode → 03 Testing → 04 Launch → 05 Marketing → 06 Tracking
+MVP → Vibecode → Testing → Launch → Marketing → Tracking
 ```
 
-| # | What |
-|---|------|
-| [01-mvp](01-mvp/) | Build smallest product |
-| [02-vibecode](02-vibecode/) | AI coding + prompts |
-| [03-testing](03-testing/) | Android + feedback |
-| [04-launch](04-launch/) | Store + ASO |
-| [05-marketing](05-marketing/) | Instagram |
-| [06-tracking](06-tracking/) | Real numbers |
+| Phase | What | Key file |
+|-------|------|----------|
+| [01-mvp](01-mvp/) | Build the smallest product | [what-is-mvp](01-mvp/what-is-mvp.md) |
+| [02-vibecode](02-vibecode/) | AI coding + prompts | [vibecode](02-vibecode/vibecode.md) |
+| [03-testing](03-testing/) | Closed testing + feedback | [android](03-testing/android.md) |
+| [04-launch](04-launch/) | Store listing + ASO | [launch](04-launch/launch.md) |
+| [05-marketing](05-marketing/) | Instagram + DMs | [instagram](05-marketing/instagram.md) |
+| [06-tracking](06-tracking/) | Real numbers, all apps | [comparison](06-tracking/comparison.md) |
 
 ---
 
-## Real Results
+## Results
 
-| App | Testers | Time |
-|-----|---------|------|
-| Slothy | 110 | 12 days |
-| Mulligan | 130 | 6 days |
+| App | Testers | Time | Status |
+|-----|---------|------|--------|
+| Slothy | 53 | Ongoing | Closed testing |
+| Mulligan | 136 | 6 days | Production |
+| Lotty | 105 | 12 days | Production |
 
-Try them: [Slothy](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) · [Mulligan](https://play.google.com/store/apps/details?id=com.dotsystems.mulligan)
+| App | Link |
+|-----|------|
+| Slothy | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
+| Mulligan | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
+| Lotty | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
 
 ---
 

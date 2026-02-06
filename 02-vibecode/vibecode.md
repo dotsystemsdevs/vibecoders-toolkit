@@ -1,71 +1,48 @@
-# 02 Vibecode
+# Vibecode
 
-AI-assisted development where you describe what you want and AI generates code.
+## Background
 
----
-
-## Loop
+AI-assisted development where you describe what you want and AI generates code. Fast for MVPs, dangerous for production.
 
 ```
 Describe → Generate → Review → Test → Repeat
 ```
 
+---
+
+## Do this
+
+### The loop
+
 | Step | What |
 |------|------|
-| Describe | Be specific |
-| Generate | AI creates code |
-| Review | Don't blindly accept |
-| Test | Test immediately |
-| Repeat | Commit often |
+| Describe | Be specific about what you want |
+| Generate | Let AI create the code |
+| Review | Don't blindly accept — read it |
+| Test | Test immediately, don't batch |
+| Repeat | Commit after every working change |
 
----
+### Tools
 
-## When it works
+| Tool | What | Our take |
+|------|------|----------|
+| **Cursor** | AI-enhanced VS Code | Best for daily coding |
+| **Claude Code** | Terminal-based AI | Powerful for complex tasks |
+| **Windsurf** | Standalone AI editor | Good alternative |
+| **Bolt.new** | Full app generation | Wasted credits, skip it |
 
-| Use case | Why |
-|----------|-----|
-| Demos/prototypes | Fast, throwaway OK |
-| Landing pages | Simple, low risk |
-| Internal tools | Less security pressure |
-
----
-
-## When it doesn't work
-
-| Use case | Why |
-|----------|-----|
-| Production with user data | Security vulnerabilities |
-| Complex backends | Inconsistent as codebase grows |
-| Payments | Too risky |
-| 100+ users | Architecture breaks |
-
----
-
-## Tools
-
-| Tool | What |
-|------|------|
-| **Cursor** | AI-enhanced VS Code, best for coding |
-| **Claude Code** | Terminal-based, powerful |
-| **Windsurf** | Standalone AI editor |
-| **Bolt.new** | Full app generation |
-
----
-
-## Models
+### Models
 
 | Model | Best for |
 |-------|----------|
 | Claude Sonnet | Coding, debugging |
 | Claude Opus | Complex architecture |
-| GPT-5 | Brainstorming, marketing |
+| GPT-5 | Brainstorming, marketing copy |
 | v0.dev | UI prototypes |
 
----
+### Rules
 
-## Rules
-
-- [ ] Plan first — implementation plan before coding
+- [ ] Plan first — write an implementation plan before coding
 - [ ] Be specific — vague prompts = bad code
 - [ ] Review everything — don't blindly accept
 - [ ] Test constantly — don't batch
@@ -73,6 +50,19 @@ Describe → Generate → Review → Test → Repeat
 
 ---
 
-## Prompts
+## When it works vs. when it doesn't
 
-See [prompts/](prompts/) for templates.
+| Works | Doesn't work |
+|-------|-------------|
+| Demos, prototypes | Production with user data |
+| Landing pages | Complex backends |
+| Internal tools | Payment systems |
+| MVPs | Apps with 100+ users |
+
+---
+
+## Evidence
+
+We built all 3 apps (Slothy, Mulligan, Lotty) using vibecoding with Claude + Cursor. Total time from idea to closed testing: ~1 week per app. Zero backend — all offline, all local storage. That's the sweet spot for vibecoding.
+
+The moment you add a backend, authentication, or payments — slow down and review everything.
