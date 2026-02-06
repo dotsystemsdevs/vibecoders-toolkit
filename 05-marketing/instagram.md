@@ -26,3 +26,43 @@
 ---
 
 *Results in [results.md](results.md) · Learnings in [learnings.md](learnings.md)*
+
+---
+
+## Welcome DMs (copy-paste to new followers)
+
+### @slothy_app
+
+**CTA: Get them testing.** Slothy is in closed beta — every follower is a potential tester.
+
+```
+Hey thanks for following! 🦥
+
+I'm building Slothy — a todo app for people who procrastinate. It's in closed beta right now and I need testers.
+
+Wanna try it? Link in bio, takes 10 sec.
+```
+
+### @app_mulligan
+
+**CTA: Get them to download.** Mulligan is live — push straight to install.
+
+```
+Hey thanks for following! ⛳
+
+I built Mulligan — tracks your golf rounds, lost balls, and lets you share highlight cards.
+
+It's free on Google Play, link in bio if you wanna check it out.
+```
+
+### @dotsystemsdevs
+
+**CTA: Get them to follow app accounts.** Dev followers = potential users for both apps.
+
+```
+Hey thanks for following! 🙌
+
+I build indie apps — Slothy (todo for procrastinators) and Mulligan (golf tracker). Both free, both on Google Play.
+
+If any of that sounds interesting check out @slothy_app or @app_mulligan.
+```
