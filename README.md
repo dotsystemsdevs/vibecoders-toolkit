@@ -39,7 +39,7 @@ MVP → Vibecode → Testing → Launch → Marketing → Tracking
 
 | App | Link |
 |-----|------|
-| Slothy | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
+| Slothy | [Join & Download](https://dotsystemsdevs.github.io/vibecoders-toolkit/links/) |
 | Mulligan | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
 | Lotty | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
 
