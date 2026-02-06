@@ -49,7 +49,7 @@ Lotty Day 1 = Jan 9 · Mulligan Day 1 = Jan 16 · Slothy Day 1 = Feb 4
 
 | Day | Lotty | Mulligan | Slothy |
 |-----|-------|----------|--------|
-| 1 | 1 | 56 | 32 |
+| 1 | — | 56 | 32 |
 | 2 | 25 | 66 | — |
 | 3 | 42 | 69 | — |
 | 4 | 56 | 89 | — |
