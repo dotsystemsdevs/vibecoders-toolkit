@@ -4,7 +4,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Testing group | 110 |
+| Testing group | 53 |
 | Testers opted-in | 12 |
 | Days in testing | 2 |
 | Installed audience | 32 |

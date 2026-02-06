@@ -24,16 +24,21 @@
 
 ---
 
-## Daily Stats (Feb 2026)
+## Daily Installed Audience
 
-| Date | Total | New | First opens |
-|------|-------|-----|-------------|
-| Feb 4 | 32 | 7 | 7 |
-| Feb 3 | 31 | 2 | 7 |
-| Feb 2 | 37 | 2 | 9 |
-| Feb 1 | 27 | 2 | 5 |
-| Jan 31 | 27 | 2 | 5 |
-| Jan 30 | 25 | 2 | 4 |
+| Date | Users |
+|------|-------|
+| Jan 16 | 56 |
+| Jan 17 | 66 |
+| Jan 18 | 69 |
+| Jan 19 | 89 |
+| Jan 20 | 92 (peak) |
+| Jan 21 | 37 |
+| Jan 24 | 45 |
+| Jan 27 | 24 |
+| Jan 30 | 25 |
+| Feb 2 | 37 |
+| Feb 4 | 32 |
 
 ---
 
