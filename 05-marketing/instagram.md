@@ -1,20 +1,5 @@
 # Instagram Strategy
 
-## Posting schedule
-
-Run 3 accounts: one per app + one dev/brand account.
-
-**Rotation:** 15:00 → 18:00 → 21:00, staggered across accounts so you're never posting on two at the same time.
-
-| Day | App 1 | App 2 | Dev |
-|-----|-------|-------|-----|
-| Mon | 15:00 Share-CTA | 21:00 Share-CTA | 18:00 Reel |
-| Tue | 21:00 Humor | 18:00 Tips | 15:00 Reel |
-| Wed | 18:00 Share-CTA | 15:00 Share-CTA | 21:00 Carousel |
-| Thu | 15:00 Humor | 21:00 Tips | 18:00 Reel |
-
----
-
 ## Content types by account
 
 | Account type | Focus | Format |
