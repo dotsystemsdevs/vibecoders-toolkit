@@ -26,6 +26,7 @@ MVP → Vibecode → Testing → Launch → Marketing → Tracking
 | [04-launch](04-launch/) | Store listing + ASO | [launch](04-launch/launch.md) |
 | [05-marketing](05-marketing/) | Instagram + DMs | [instagram](05-marketing/instagram.md) |
 | [06-tracking](06-tracking/) | Real numbers, all apps | [comparison](06-tracking/comparison.md) |
+| [07-growth](07-growth/) | Problem? → what we tried → did it work? | [plays](07-growth/plays.md) |
 
 ---
 
