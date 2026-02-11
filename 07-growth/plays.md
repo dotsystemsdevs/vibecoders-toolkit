@@ -1,72 +1,72 @@
 # Growth Plays
 
-Real actions across 3 apps. Only things we actually shipped — no theory.
+Tested across 3 production apps. Only actions that were actually shipped — no theory.
 
 ---
 
-## Users Dropping?
+## Low DAU?
 
-| What we tried | Result | Verdict |
-|---------------|--------|---------|
-| Push notifications (8h/24h/72h/7d) | First uptick after weeks of decline | **Ship early** |
-| In-app review prompt | 16 reviews + keeps users engaged | **Ship early** |
-| Streaks / daily hooks | Dropped — wrong for event-driven apps | **Don't force daily use** |
+| Action | Result | Verdict |
+|--------|--------|---------|
+| Push notifications (staggered: 8h → 24h → 72h → 7d) | First uptick after weeks of decline | **Ship before launch** |
+| In-app review prompt (after N sessions) | Keeps users returning + generates reviews | **Ship before launch** |
+| Streaks / daily engagement hooks | Dropped — punishes users of event-driven apps | **Only for daily-use apps** |
 
-**Takeaway:** Event-driven apps (golf tracker, P&L logger) ≠ daily-use apps. Notifications remind. Streaks punish.
+**Takeaway:** Not every app is a daily-use app. If users come when they have something to do (log a round, enter a transaction), notifications remind — streaks punish.
 
 ---
 
 ## Low Store Conversion?
 
-| What we tried | Result | Verdict |
-|---------------|--------|---------|
-| Screenshots showing app in action | 76% conversion (Mulligan) | **Do this first** |
-| Screenshots with empty states | 43% conversion (Lotty) | **Never do this** |
-| ASO keyword optimization | Marginal — good for search but we get 0 search traffic | **Do it but don't expect magic** |
-| Rewrite short description (benefit-first) | In progress | Waiting for data |
+| Action | Result | Verdict |
+|--------|--------|---------|
+| Screenshots showing the app with real data | 76% conversion | **Do this first** |
+| Screenshots showing empty states | 43% conversion | **Never do this** |
+| ASO keyword optimization | Marginal — good for search, but niche apps get near-zero search traffic | **Do it, don't expect magic** |
+| Benefit-first short description | In progress | **Test it** |
 
-**Takeaway:** Screenshots sell the app. Show real data (scores, P&L entries), not empty states. Difference: 76% vs 43%.
+**Takeaway:** Screenshots sell the app. Show real content (actual scores, real entries, filled dashboards), not empty states. Difference: 76% vs 43%.
 
 ---
 
 ## No Organic Traffic?
 
-| What we tried | Result | Verdict |
-|---------------|--------|---------|
-| ASO keyword optimization | Lotty: 2 from search. Mulligan: 0 | **Niche apps get ~0 search** |
-| Instagram reels (share-CTA) | 80-94% non-follower reach, 0 installs | **Builds followers, not installs** |
-| Instagram carousels | 0 engagement | **Dead format** |
-| Google Play Explore | Mulligan: 10 organic installs over time | **Can't force it** |
+| Action | Result | Verdict |
+|--------|--------|---------|
+| ASO keyword optimization | 0-2 installs from search across all apps | **Niche apps get ~0 search** |
+| Instagram reels (share-CTA format) | 80-94% non-follower reach, 0 confirmed installs | **Builds followers, not installs** |
+| Instagram carousels | 0 engagement | **Dead format for app marketing** |
+| Google Play Explore | ~10 organic installs over 90 days | **Happens passively, can't force it** |
 
-**Takeaway:** 86-100% of installs come from links we share. Instagram = awareness. Community posts (Reddit, Facebook) = acquisition. We haven't tried community posts yet — that's the gap.
+**Takeaway:** If your app is niche, 90%+ of installs will come from links you share yourself. Instagram = awareness channel. Community posts (Reddit, Facebook groups) = acquisition channel. Go where your users already hang out.
 
 ---
 
 ## Need Reviews Fast?
 
-| What we tried | Result | Verdict |
-|---------------|--------|---------|
+| Action | Result | Verdict |
+|--------|--------|---------|
 | Personal DMs to testers | Immediate response, high conversion | **Best method** |
-| DM swaps with indie devs | Got reviews + connections | **Great ROI** |
-| Email Google Group (closed testing) | Some responses | **OK as supplement** |
-| Mass messages in Discord/groups | Nothing | **Waste of time** |
+| DM swaps with indie devs | Reviews + networking | **Great ROI** |
+| Email to closed testing group | Some responses | **OK as supplement** |
+| Mass messages in Discord/dev groups | Nothing | **Waste of time** |
 | In-app review prompt | Steady trickle over time | **Set and forget** |
 
-**Takeaway:** 16 reviews in 1 day. 100% from personal messages. 0% from mass messages.
+**Takeaway:** 16 reviews in 1 day. 100% came from personal 1-on-1 messages. 0% from mass messages. Relationships > reach.
 
 ---
 
-## Instagram Not Converting to Installs?
+## Instagram Not Converting?
 
-| What we tried | Result | Verdict |
-|---------------|--------|---------|
-| Share-CTA reels | Best reach (80-94% non-followers) | **Good for followers** |
-| Humor reels | Best engagement (loops, saves) | **Good for engagement** |
-| Tips/educational | Decent engagement | **OK for credibility** |
+| Action | Result | Verdict |
+|--------|--------|---------|
+| Share-CTA reels ("send this to someone who...") | Best reach (80-94% non-followers) | **Good for growth** |
+| Humor reels | Best engagement (loop rate, saves) | **Good for engagement** |
+| Tips / educational content | Decent engagement | **OK for credibility** |
 | Carousels | 0 engagement | **Don't bother** |
-| Bio link to Play Store | 0 confirmed installs | **Nobody clicks** |
+| Bio link to app store | 0 confirmed installs | **Nobody clicks through** |
 
-**Takeaway:** 1,075 followers → 0 installs. Instagram is brand, not acquisition.
+**Takeaway:** 1K+ followers → 0 installs. Instagram grows your brand, not your install base. Use it for awareness; use community posts for acquisition.
 
 ---
 
@@ -74,12 +74,8 @@ Real actions across 3 apps. Only things we actually shipped — no theory.
 
 | Problem | First move |
 |---------|-----------|
-| Users dropping | Ship push notifications |
-| Low conversion | Redo screenshots (show real data) |
-| No organic traffic | Post in niche communities (Reddit, Facebook) |
-| Need reviews | Personal DMs to real users |
-| Instagram not converting | Stop trying — use it for brand only |
-
----
-
-*Based on: Mulligan (golf), Lotty (P&L), Slothy (todo). Feb 2026.*
+| Low DAU | Ship push notifications (staggered schedule) |
+| Low conversion | Redo screenshots — show real data, not empty states |
+| No organic traffic | Post in niche communities where your users are |
+| Need reviews | Personal DMs to real users, 1-on-1 |
+| Instagram not converting | Accept it's brand-only, shift effort to communities |
