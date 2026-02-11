@@ -1,6 +1,8 @@
 # Vibecoders Toolkit
 
-I shipped 3 apps to Google Play with $0 budget. This is the full playbook.
+A free playbook for shipping Android apps to Google Play with $0 budget.
+
+Everything here comes from real experience — what worked, what didn't, and what we'd do differently.
 
 ---
 
@@ -15,7 +17,7 @@ I shipped 3 apps to Google Play with $0 budget. This is the full playbook.
 ## The Flow
 
 ```
-MVP → Vibecode → Testing → Launch → Marketing → Tracking
+MVP → Vibecode → Testing → Launch → Marketing → Growth
 ```
 
 | Phase | What | Key file |
@@ -24,25 +26,8 @@ MVP → Vibecode → Testing → Launch → Marketing → Tracking
 | [02-vibecode](02-vibecode/) | AI coding + prompts | [vibecode](02-vibecode/vibecode.md) |
 | [03-testing](03-testing/) | Closed testing + feedback | [android](03-testing/android.md) |
 | [04-launch](04-launch/) | Store listing + ASO | [launch](04-launch/launch.md) |
-| [05-marketing](05-marketing/) | Instagram + DMs | [instagram](05-marketing/instagram.md) |
-| [06-tracking](06-tracking/) | Real numbers, all apps | [comparison](06-tracking/comparison.md) |
-| [07-growth](07-growth/) | Problem? → what we tried → did it work? | [plays](07-growth/plays.md) |
-
----
-
-## Results
-
-| App | Testers | Time | Status |
-|-----|---------|------|--------|
-| Slothy | 53 | Ongoing | Closed testing |
-| Mulligan | 136 | 6 days | Production |
-| Lotty | 105 | 12 days | Production |
-
-| App | Link |
-|-----|------|
-| Slothy | [Join & Download](https://dotsystemsdevs.github.io/vibecoders-toolkit/links/) |
-| Mulligan | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
-| Lotty | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
+| [05-marketing](05-marketing/) | Instagram + community posts | [instagram](05-marketing/instagram.md) |
+| [07-growth](07-growth/) | Problem? → what we tried → did it work? | [README](07-growth/README.md) |
 
 ---
 

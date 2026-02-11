@@ -31,12 +31,12 @@ Until someone uses your app and comes back, you haven't validated anything.
 | Dropbox | Explainer video | Is there demand? |
 | Amazon | Online bookstore | Will people buy books online? |
 
-### Our apps
+### What good MVPs look like
 
-| App | MVP feature | What we shipped first |
-|-----|-------------|----------------------|
-| Slothy | Task list with today/tomorrow | No settings, no themes, just the list |
-| Mulligan | Lost ball counter | One screen, one button |
-| Lotty | Win/loss tracker | Input amount, see profit/loss |
+| Type | MVP feature | What you ship first |
+|------|-------------|---------------------|
+| Todo app | Task list with one twist | No settings, no themes, just the list |
+| Tracker app | One counter on one screen | One screen, one button |
+| Finance app | Input amount, see result | Minimal UI, core math only |
 
-All three shipped in under a week each. Everything else came after real feedback.
+Ship in under a week. Everything else comes after real feedback.

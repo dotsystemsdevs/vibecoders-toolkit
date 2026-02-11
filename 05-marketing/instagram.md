@@ -1,68 +1,76 @@
-# Posting Calendar
+# Instagram Strategy
 
-| Date | Slothy | Mulligan | Dev |
-|------|--------|----------|-----|
-| ~~Thu Feb 6~~ | ~~18:00 Share-CTA~~ | ~~15:00 Share-CTA~~ | ~~21:00 Relatable~~ |
-| ~~Fri Feb 7~~ | ~~15:00 Humor~~ | ~~21:00 Tips~~ | ~~18:00 Carousel~~ |
-| Sat Feb 8 | 21:00 Share-CTA | 18:00 Share-CTA | 15:00 Reel |
-| Sun Feb 9 | 18:00 Humor | 15:00 Tips | 21:00 Carousel |
-| Mon Feb 10 | 15:00 Share-CTA | 21:00 Share-CTA | 18:00 Reel |
-| Tue Feb 11 | 21:00 Humor | 18:00 Tips | 15:00 Reel |
-| Wed Feb 12 | 18:00 Share-CTA | 15:00 Share-CTA | 21:00 Carousel |
-| Thu Feb 13 | 15:00 Humor | 21:00 Tips | 18:00 Reel |
+## Posting schedule
 
-**Times:** 15:00 → 18:00 → 21:00 (rotating)
+Run 3 accounts: one per app + one dev/brand account.
 
----
+**Rotation:** 15:00 → 18:00 → 21:00, staggered across accounts so you're never posting on two at the same time.
 
-## Focus
-
-**Slothy:** Share-CTA + "Follow for more" + ADHD humor
-
-**Mulligan:** Share-CTA + "Follow for more" + Golf fails
-
-**Dev:** Relatable + Build in public + Real numbers
+| Day | App 1 | App 2 | Dev |
+|-----|-------|-------|-----|
+| Mon | 15:00 Share-CTA | 21:00 Share-CTA | 18:00 Reel |
+| Tue | 21:00 Humor | 18:00 Tips | 15:00 Reel |
+| Wed | 18:00 Share-CTA | 15:00 Share-CTA | 21:00 Carousel |
+| Thu | 15:00 Humor | 21:00 Tips | 18:00 Reel |
 
 ---
 
-*Results in [results.md](results.md) · Learnings in [learnings.md](learnings.md)*
+## Content types by account
+
+| Account type | Focus | Format |
+|-------------|-------|--------|
+| App account | Share-CTA + humor related to niche | Short reels (3-6 sec) |
+| Dev account | Build-in-public + relatable dev humor | Reels + carousels |
 
 ---
 
-## Welcome DMs (copy-paste to new followers)
+## Welcome DMs
 
-### @slothy_app
+Send a welcome DM to every new follower. Keep it short and include a link.
 
-**CTA: Get them testing.** Slothy is in closed beta — every follower is a potential tester.
+### App account (production)
 
-```
-Hey thanks for following! 🦥
-
-I'm building Slothy — a todo app for people who procrastinate. It's in closed beta right now and I need testers.
-
-Wanna try it? Link in bio, takes 10 sec.
-```
-
-### @app_mulligan
-
-**CTA: Get them to download.** Mulligan is live — push straight to install.
+**Goal:** Get them to download.
 
 ```
-Hey thanks for following! ⛳
+Hey! Thanks for the follow [emoji]
 
-I built Mulligan — tracks your golf rounds, lost balls, and lets you share highlight cards.
+[1-2 sentences about what your app does and why it's different]
 
-It's free on Google Play, link in bio if you wanna check it out.
+[Dare/challenge to try it + social sharing angle]
+
+[tracked link]
 ```
 
-### @dotsystemsdevs
+### App account (testing)
 
-**CTA: Get them to follow app accounts.** Dev followers = potential users for both apps.
+**Goal:** Get them to join testing.
 
 ```
-Hey thanks for following! 🙌
+Hey! Thanks for the follow [emoji]
 
-I build indie apps — Slothy (todo for procrastinators) and Mulligan (golf tracker). Both free, both on Google Play.
+[Relatable question about the problem your app solves]
 
-If any of that sounds interesting check out @slothy_app or @app_mulligan.
+[What the app does, keep it casual]
+
+We're testing it right now, join here if you want in:
+[early access link]
 ```
+
+### Dev account
+
+**Goal:** Get them to your link tree (apps + toolkit).
+
+```
+Hey! Thanks for the follow [emoji]
+
+[What you offer — toolkit, resources, etc.]
+
+[Mention you also have apps they can check out]
+
+[link tree URL]
+```
+
+---
+
+*Results in [instagram-results](instagram-results.md) · Learnings in [instagram-learnings](instagram-learnings.md)*

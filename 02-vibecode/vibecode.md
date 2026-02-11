@@ -63,6 +63,6 @@ Describe → Generate → Review → Test → Repeat
 
 ## Evidence
 
-We built all 3 apps (Slothy, Mulligan, Lotty) using vibecoding with Claude + Cursor. Total time from idea to closed testing: ~1 week per app. Zero backend — all offline, all local storage. That's the sweet spot for vibecoding.
+We shipped multiple apps using vibecoding with Claude + Cursor. Total time from idea to closed testing: ~1 week per app. Zero backend — all offline, all local storage. That's the sweet spot for vibecoding.
 
 The moment you add a backend, authentication, or payments — slow down and review everything.

@@ -24,18 +24,18 @@ Going from 0 to 5 is the highest ROI move. Everything after that has less impact
 
 ## What worked for us
 
-Went from 0 to 10 reviews in one morning (Feb 9, 2026).
+Went from 0 to 10+ reviews in one morning using DM swaps.
 
-| Channel | Reviews | Conversion |
-|---------|---------|------------|
-| DM swaps (r/googleplayconsole + r/AndroidClosedTesting) | 8 | High — people actively want to trade |
-| Email test groups (Google Groups) | 2 | Low — 1 review per 100+ testers |
+| Channel | Conversion |
+|---------|------------|
+| DM swaps (r/googleplayconsole + r/AndroidClosedTesting) | High — people actively want to trade |
+| Email test groups (Google Groups) | Low — ~1 review per 100+ testers |
 
 **Best channel:** DM swaps on Reddit. Send a simple message:
 
-> Hey, saw you in a review swap thread. I've got two apps on Google Play, would appreciate a 5 star review on both and I'll do the same for yours right away with screenshots. [links] Send me your link and I'll get on it immediately.
+> Hey, saw you in a review swap thread. I've got an app on Google Play, would appreciate a review and I'll do the same for yours right away with screenshots. [link] Send me your link and I'll get on it immediately.
 
-**Worst ROI:** Emailing test groups. 241 testers, 2 reviews. They already have the app but don't care enough to review.
+**Worst ROI:** Emailing test groups. Hundreds of testers, almost no reviews. They have the app but don't care enough to review.
 
 ## Watch out for
 

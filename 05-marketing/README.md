@@ -4,6 +4,7 @@ Get users after launch.
 
 | File | What |
 |------|------|
-| [instagram](instagram.md) | Posting calendar |
-| [instagram-learnings](instagram-learnings.md) | What works |
-| [instagram-results](instagram-results.md) | Analytics |
+| [instagram](instagram.md) | Strategy, schedule, welcome DMs |
+| [instagram-learnings](instagram-learnings.md) | What works on Instagram |
+| [instagram-results](instagram-results.md) | Real analytics from first week |
+| [reviews](reviews.md) | How to get Google Play reviews fast |

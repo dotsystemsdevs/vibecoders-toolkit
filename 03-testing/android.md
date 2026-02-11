@@ -28,8 +28,8 @@ Neutral names reach broader audiences.
 
 | Before | After | Result |
 |--------|-------|--------|
-| "lotty-tracker" | "win/loss tracker" | Broader appeal |
-| "Lost Ball Counter" | "Mulligan: The Real Scorecard" | More professional |
+| "my-tracker" | "win/loss tracker" | Broader appeal |
+| "Lost Ball Counter" | "The Real Scorecard" | More professional |
 
 ### Recruit testers
 
@@ -62,28 +62,17 @@ Neutral names reach broader audiences.
 
 ## Evidence
 
-### Lotty — 110 testers in 12 days
+### Typical growth curve
 
-| Day | Members | Active users |
-|-----|---------|--------------|
-| 1 | 25 | 1 |
-| 2 | 40 | 24 |
-| 3 | 57 | 41 |
-| 4 | 73 | 53 |
-| 5 | 86 | 70 |
-| 7 | 96 | 71 |
-| 12 | 110 | ~12 |
+| Day | Members (generic app) | Members (niche community) |
+|-----|----------------------|--------------------------|
+| 1 | 25 | 28 |
+| 2 | 40 | 44 |
+| 3 | 57 | 67 |
+| 6 | ~90 | 130 |
+| 12 | 110 | — |
 
-### Mulligan — 130 testers in 6 days
-
-| Day | Members |
-|-----|---------|
-| 1 | 28 |
-| 2 | 44 |
-| 3 | 67 |
-| 6 | 130 |
-
-Mulligan grew faster because we posted in golf forums — niche communities validate demand AND give better feedback.
+Apps posted in niche communities (e.g. golf forums, finance subreddits) grow faster because those communities validate demand AND give better feedback.
 
 ### Key patterns
 

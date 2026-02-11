@@ -57,7 +57,7 @@ Line 4: CTA
 
 ## Evidence
 
-Both Mulligan and Lotty went from closed testing to production. Lotty with 110 testers, Mulligan with 136. Both approved without issues. The key was having enough testers and fixing the obvious bugs before submitting.
+We shipped multiple apps from closed testing to production with 100-140 testers each. All approved without issues. The key was having enough testers and fixing the obvious bugs before submitting.
 
 ---
 

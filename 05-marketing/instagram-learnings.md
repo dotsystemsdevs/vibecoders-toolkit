@@ -51,5 +51,5 @@ Strong cover + "Swipe ->" on every slide + CTA on last slide
 
 | Tool | What |
 |------|------|
-| Bitly | Shorten links |
+| Dub.co | Shorten + track links (free tier, analytics per link) |
 | ManyChat | Auto-reply to comments with DM |
