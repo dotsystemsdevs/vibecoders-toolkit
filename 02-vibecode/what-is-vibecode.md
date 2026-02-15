@@ -2,29 +2,80 @@
 
 ## Definition
 
-Vibecoding is AI-assisted development where you describe requirements in natural language and AI generates working code. You then review, test, and iterate.
+Vibecoding is AI-assisted development where you describe what you want in natural language and AI generates working code. You then review, test, and iterate.
 
-The name comes from the workflow: fast, intuitive, high-energy coding sessions where you "vibe" with the AI rather than manually writing every line.
+The term was coined by AI researcher Andrej Karpathy in February 2025, who described it as "a new kind of coding where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
+
+## Two approaches
+
+**Pure vibe coding:**
+You fully trust AI's output. Don't read the code. Just describe, generate, use. Best for throwaway weekend projects where speed matters more than quality.
+
+**Responsible vibe coding:**
+You treat AI as a pair programmer. Describe, generate, review, test, own the result. This is what professionals use for real applications.
+
+**Our approach in this guide: Responsible vibe coding.** We shipped 3 production apps this way.
+
+## Why it matters now
+
+**The developer shortage:**
+82% of businesses report a shortage of developer talent. Development backlogs keep growing. The barrier between "having an idea" and "shipping an app" has been technical expertise or hiring developers.
+
+**The AI breakthrough:**
+AI capabilities are doubling every 7 months. We've gone from autocomplete to function generation to feature generation to full app generation. The barrier is disappearing.
+
+**The result:**
+Anyone with an idea can now build apps. Entrepreneurs, designers, educators—no coding background required.
+
+Organizations using AI-assisted development see 5.8x faster development times compared to traditional methods.
 
 ## How it works
 
-Modern AI models (Claude Sonnet, GPT-4) have been trained on billions of lines of code from GitHub, Stack Overflow, and documentation. They recognize patterns and can translate descriptions into implementations.
+Modern AI models (Claude Sonnet, GPT-4, Gemini) have been trained on billions of lines of code from GitHub, Stack Overflow, and documentation. They recognize patterns and translate natural language into working implementations.
 
-**Example:**
+**Traditional path (non-technical creator):**
+1. Have an idea
+2. Learn to code (months/years) or hire developers ($15,000-$100,000+)
+3. Build prototype (weeks to months)
+4. Iterate
+5. Launch
+
+**Vibe coding path:**
+1. Have an idea
+2. Describe it to AI
+3. Refine and iterate
+4. Launch
+
+**Example conversation:**
 - You: "Add email validation to the login form"
 - AI: Generates regex pattern, error handling, UI feedback
 - You: Review for edge cases, test with invalid emails, commit
+- Time: 10 minutes vs 40 minutes manual coding
 
 ## The critical trade-off
 
 **Speed vs. Control**
 
-- You ship 10x faster than traditional coding
+- You ship 3-6x faster than traditional coding (our benchmark: 4x)
 - But you must review 3x harder than code you wrote yourself
 - AI doesn't understand business logic, edge cases, or security context
 - Every generated line is a potential bug or vulnerability
 
-## When to use vibecoding
+**The role shift:**
+
+Before: You're the coder (writing every line)
+
+After: You're the director (guiding AI, reviewing output, owning results)
+
+You focus on:
+- Your idea and vision
+- Solving real problems
+- User experience
+
+AI handles:
+- Syntax and implementation
+- Boilerplate code
+- Technical details
 
 | Use case | Why it works | Risk level |
 |----------|--------------|------------|
