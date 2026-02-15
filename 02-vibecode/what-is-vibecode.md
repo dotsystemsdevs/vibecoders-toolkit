@@ -1,78 +1,105 @@
 # What is Vibecode
 
-## Background
+## Definition
 
-Traditional coding: learn syntax, frameworks, best practices. Takes years.
+Vibecoding is AI-assisted development where you describe requirements in natural language and AI generates working code. You then review, test, and iterate.
 
-Vibecoding: describe what you want, AI generates code. Takes hours.
+The name comes from the workflow: fast, intuitive, high-energy coding sessions where you "vibe" with the AI rather than manually writing every line.
 
-Modern AI models (Claude, GPT-4) trained on millions of code examples. They know patterns. They translate descriptions into working code.
+## How it works
 
-**The trade-off:** Speed vs. control.
+Modern AI models (Claude Sonnet, GPT-4) have been trained on billions of lines of code from GitHub, Stack Overflow, and documentation. They recognize patterns and can translate descriptions into implementations.
 
-You ship faster. You review harder. AI makes mistakes. AI doesn't understand your full context. AI introduces security holes.
+**Example:**
+- You: "Add email validation to the login form"
+- AI: Generates regex pattern, error handling, UI feedback
+- You: Review for edge cases, test with invalid emails, commit
 
-**The workflow:**
+## The critical trade-off
+
+**Speed vs. Control**
+
+- You ship 10x faster than traditional coding
+- But you must review 3x harder than code you wrote yourself
+- AI doesn't understand business logic, edge cases, or security context
+- Every generated line is a potential bug or vulnerability
+
+## When to use vibecoding
+
+| Use case | Why it works | Risk level |
+|----------|--------------|------------|
+| MVPs with no backend | AI knows common UI patterns | Low |
+| Landing pages | Static content, well-understood structure | Low |
+| Internal tools | Limited users, low security requirements | Low-Medium |
+| Prototypes for user testing | Speed matters more than quality | Low |
+
+## When NOT to use vibecoding
+
+| Use case | Why it fails | Risk level |
+|----------|--------------|------------|
+| Production apps with paying users | AI introduces bugs users encounter | High |
+| Payment processing | Security vulnerabilities = liability | Critical |
+| Authentication systems | One mistake = data breach | Critical |
+| Apps with 100+ active users | Technical debt accumulates fast | High |
+
+## Tools
+
+**Recommended:**
+- **Cursor** (AI-enhanced VS Code) — best for daily work
+- **Claude Code** (terminal-based) — complex refactoring
+- **Claude Sonnet** model — best code quality
+
+**Avoid:**
+- **Bolt.new** — generates low-quality code, burns credits
+- **GPT-3.5** — outdated, poor code quality
+
+## Real-world benchmark
+
+**Project:** 3 Android apps (todo app, golf tracker, income tracker)
+
+**Timeline:** 1 week each (40 hours per app)
+
+**Stack:** React Native, Expo, local storage only
+
+**Result:** All shipped to Google Play Store, 137 combined users
+
+**What made it work:**
+- Zero backend (no auth, no database, no API)
+- Well-known patterns (todo lists, form inputs, local storage)
+- Immediate testing after each change
+- No paying users during development
+
+**Critical lesson:** The moment we considered adding backend or payments, we stopped and planned to hire a developer for security review.
+
+## The workflow
 
 ```
-Describe → AI generates → You review → Test → Repeat
+1. Write specific requirement
+2. AI generates code
+3. Review line by line (don't skip)
+4. Test immediately
+5. Commit if it works
+6. Repeat
 ```
 
-Fast iteration. Constant testing. Ship MVPs in days, not months.
+**Time breakdown for a typical feature:**
+- Writing requirement: 2 minutes
+- AI generation: 30 seconds
+- Your review: 5 minutes
+- Testing: 3 minutes
+- **Total: ~10 minutes per feature**
 
-## When it makes sense
+Compare to traditional coding:
+- Understanding requirement: 5 minutes
+- Writing code: 20 minutes
+- Debugging: 10 minutes
+- Testing: 5 minutes
+- **Total: ~40 minutes per feature**
 
-Vibecoding has a sweet spot. Use it wrong, you waste time or ship vulnerabilities.
+**4x speed increase, but only if you review properly.**
 
----
+## Bottom line
 
-## Tools you need
+Vibecoding is a tool, not magic. It accelerates MVPs and prototypes. It's dangerous for production systems with security requirements.
 
-| Tool | What | Recommended |
-|------|------|-------------|
-| Cursor | AI-enhanced VS Code | Best for daily coding |
-| Claude Code | Terminal-based AI | Complex tasks |
-| Windsurf | Standalone AI editor | Alternative |
-| Bolt.new | Full app generation | Skip it (wasted credits) |
-
----
-
-## Models
-
-| Model | Best for |
-|-------|----------|
-| Claude Sonnet | Coding, debugging |
-| Claude Opus | Architecture decisions |
-| GPT-5 | Marketing copy, brainstorming |
-| v0.dev | UI prototypes |
-
----
-
-## When it works
-
-| Works | Doesn't work |
-|-------|--------------|
-| Demos, MVPs | Production with paying users |
-| Landing pages | Complex backends |
-| Internal tools | Payment systems |
-| Prototypes | Apps with 100+ users |
-
----
-
-## Why it works (and why it doesn't)
-
-Works when the problem is well-known. Todo app? AI's seen thousands. Login screen? AI knows the pattern.
-
-Breaks when:
-- Problem is novel
-- Security matters (payments, user data)
-- Codebase is large
-- Performance is critical
-
-## Evidence
-
-We shipped 3 Android apps in 1 week each. Claude + Cursor. Zero backend. All offline. 40 hours per app, idea to Play Store.
-
-**Sweet spot:** Simple apps. No server. No auth. No payments.
-
-Add backend/auth/payments? Slow down. Get a security audit. Don't ship vulnerabilities to paying users.
+Use it to ship fast, test ideas, and validate products. Don't use it to cut corners on security or quality for paying users.
