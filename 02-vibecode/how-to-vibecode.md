@@ -1,28 +1,28 @@
 # How to Vibecode
 
-The complete workflow.
+Complete workflow from idea to shipped code.
 
 ---
 
-## The loop
+## The core loop
 
 | Step | Action |
 |------|--------|
 | 1. Describe | Be specific about what you want |
 | 2. Generate | Let AI create the code |
-| 3. Review | Read it, don't blindly accept |
-| 4. Test | Test immediately, don't batch |
+| 3. Review | Read everything, don't blindly accept |
+| 4. Test | Test immediately, don't batch changes |
 | 5. Repeat | Commit after every working change |
 
 ---
 
 ## Rules
 
-- [ ] Plan first — write implementation plan before coding
-- [ ] Be specific — vague prompts = bad code
-- [ ] Review everything — don't blindly accept
-- [ ] Test constantly — don't batch
-- [ ] Know when to stop — get dev help before users pay
+1. Plan first — write an implementation plan before any code
+2. Be specific — vague prompts produce bad code
+3. Review everything — AI makes mistakes
+4. Test constantly — don't accumulate untested changes
+5. Know when to stop — get developer help before users pay
 
 ---
 
@@ -30,79 +30,98 @@ The complete workflow.
 
 | Step | Action |
 |------|--------|
-| 1 | Describe app to AI, ask how screens should look |
+| 1 | Describe your app to AI, ask how screens should be structured |
 | 2 | Build home screen first, refine until satisfied |
-| 3 | One screen at a time — don't move on until it works |
-| 4 | Review all screens, minor tweaks |
-| 5 | Settings last, then standardize colors/buttons |
+| 3 | Build one screen at a time — don't move on until it works |
+| 4 | Review all screens together, make minor adjustments |
+| 5 | Build settings screen last, then standardize colors and buttons |
 
-**Why standardize last?** Doing it early kills creativity.
+**Why standardize last?** Standardizing early limits creativity. Get the screens right first, then make them consistent.
 
-### Content tips
+---
 
-| Rule | Why |
-|------|-----|
-| Write copy yourself | GPT copy feels fake |
-| AI for translation only | Keeps it authentic |
-| Screenshot during the day | Content for later |
+## Content guidelines
 
-### Tools that DIDN'T work
+| Rule | Reason |
+|------|--------|
+| Write copy yourself first | AI-generated copy feels generic |
+| Use AI only for translation or polish | Keeps the authentic voice |
+| Take screenshots during development | You'll need content later |
+
+---
+
+## Tools that didn't work
 
 | Tool | Problem |
 |------|---------|
-| bolt.new | Wasted credits, bad UI |
-| rapidexpo | Same problem |
-| "Build all at once" | Ugly, errors, hard to change |
-| UX/UI groups | Got banned |
-| Discord recruiting | No response, use Reddit |
+| bolt.new | Wasted credits, poor UI quality |
+| rapidexpo | Same issues as bolt.new |
+| "Build all components at once" | Produces ugly code with errors |
+| UX/UI communities for feedback | Got banned (wrong audience) |
+| Discord/Telegram for recruiting | Almost no responses, use Reddit instead |
 
 ---
 
 ## Backend: Security first
 
+When adding backend, authentication, or payment processing, the risk increases significantly.
+
 | Step | Action |
 |------|--------|
-| 1 | Write high-level plan to production |
-| 2 | Ask AI for detailed sub-steps |
-| 3 | Give AI one sub-step at a time |
-| 4 | Ask what can run in parallel |
+| 1 | Write high-level plan all the way to production |
+| 2 | Ask AI to break each step into detailed sub-steps |
+| 3 | Feed AI one sub-step at a time |
+| 4 | Ask what tasks can be done in parallel |
 
-### Security checklist
+---
 
-- [ ] Review all API endpoints for auth
-- [ ] Check SQL injection, XSS
-- [ ] Environment variables for secrets
-- [ ] Test with invalid inputs
-- [ ] Security review before shipping
+## Security checklist
 
-### Mistakes we made
+Before shipping any backend code:
 
-| Mistake | What happened | Do instead |
-|---------|---------------|------------|
-| "Do what you think" to AI | Bad architecture | Be specific, steer the plan |
-| Skip security review | Shipped vulnerabilities | Always review backend |
-| No version control | Lost work, messy history | Branches + commit often |
+- Review all API endpoints for authentication
+- Check for SQL injection vulnerabilities
+- Check for XSS vulnerabilities
+- Use environment variables for all secrets
+- Test with invalid and malicious inputs
+- Get a security review from an experienced developer
+
+---
+
+## Common mistakes
+
+| Mistake | What happened | Better approach |
+|---------|---------------|-----------------|
+| Told AI "do what you think is best" | Bad architecture, poor results | Be specific, steer the plan yourself |
+| Skipped security review | Shipped with vulnerabilities | Always review backend security |
+| No version control discipline | Lost work, messy commit history | Use feature branches, commit often |
 
 ---
 
 ## Productivity patterns
 
-| Observation | What we do |
-|-------------|------------|
-| Morning = most effective | Hard work before lunch |
-| Dip after workout | Workout after work |
-| UI perfectionism kills | Time limit, ship "good enough" |
-| Reddit addiction | Scheduled time, not 24/7 |
-| Burnout risk | Planned rest days |
+Observations from shipping multiple projects:
+
+| Observation | What we do now |
+|-------------|----------------|
+| Most productive in the morning | Schedule hard work before lunch |
+| Energy dip after workout | Exercise after other work is done |
+| UI perfectionism kills momentum | Set time limits, ship "good enough" |
+| Reddit becomes a distraction | Schedule specific Reddit time |
+| Risk of burnout | Plan regular rest days |
 
 ---
 
 ## Example: Good vs bad prompts
 
-**Bad:** "Make a login screen"
+**Bad prompt:**
+"Make a login screen"
 
-**Good:** "Make a login screen with email + password fields, a 'Login' button, and a 'Forgot password?' link. Use React Native, match the existing blue theme, validate email format before submit."
+**Good prompt:**
+"Make a login screen with email and password text input fields, a blue 'Login' button below them, and a 'Forgot password?' link at the bottom. Use React Native with TextInput components. Match the existing app's blue color scheme (#2196F3). Add email format validation before allowing submit."
+
+The difference: specificity. Good prompts include exact requirements, technologies, and constraints.
 
 ---
 
-*Be specific. Test immediately. Commit often.*
+Be specific. Test immediately. Commit often.
