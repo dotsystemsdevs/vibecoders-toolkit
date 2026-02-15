@@ -7,7 +7,7 @@
 
 ---
 
-## Backlog Prompt
+## Backlog
 
 ```
 You are my repo maintainer. Create BACKLOG.md.
@@ -23,7 +23,7 @@ OUTPUT: Full BACKLOG.md only.
 
 ---
 
-## Changelog Prompt
+## Changelog
 
 ```
 You are my repo maintainer. Create CHANGELOG.md following Keep a Changelog + SemVer.
@@ -39,7 +39,7 @@ OUTPUT: Full CHANGELOG.md only.
 
 ---
 
-## Rewrite Notes Prompt
+## Rewrite Notes
 
 ```
 Rewrite messy notes into clean, technical English.
