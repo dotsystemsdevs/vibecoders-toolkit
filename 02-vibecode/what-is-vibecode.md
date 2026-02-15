@@ -1,10 +1,14 @@
-# Setup
+# What is Vibecode
 
-What you need to start vibecoding.
+AI-generated code. You describe, AI generates, you review and ship.
+
+```
+Describe → Generate → Review → Test → Repeat
+```
 
 ---
 
-## Tools
+## Tools you need
 
 | Tool | What | Use it? |
 |------|------|---------|
@@ -26,18 +30,21 @@ What you need to start vibecoding.
 
 ---
 
-## What works vs doesn't
+## When it works
 
-| Works | Doesn't |
-|-------|---------|
+| Works ✅ | Doesn't work ❌ |
+|---------|----------------|
 | Demos, MVPs | Production with users |
 | Landing pages | Complex backends |
 | Internal tools | Payment systems |
+| Prototypes | Apps with 100+ users |
 
 ---
 
 ## Evidence
 
-We shipped 3 Android apps in 1 week each using Claude + Cursor. Zero backend, all offline. That's the sweet spot.
+We shipped 3 Android apps in 1 week each using Claude + Cursor. Zero backend, all offline, local storage only.
+
+**That's the sweet spot for vibecoding.**
 
 Add backend/auth/payments → slow down and review everything.
