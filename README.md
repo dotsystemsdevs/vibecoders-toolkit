@@ -1,8 +1,8 @@
 # Vibecoders Toolkit
 
-A free playbook for shipping Android apps to Google Play with $0 budget.
+A free playbook for shipping mobile apps with $0 budget.
 
-Everything here comes from real experience — what worked, what didn't, and what we'd do differently.
+Built from real experience shipping multiple apps to Google Play and the App Store — what worked, what didn't, and what we'd do differently. No theory. Just patterns from actual launches, real analytics, and honest post-mortems.
 
 ---
 
@@ -25,9 +25,22 @@ MVP → Vibecode → Testing → Launch → Marketing → Growth
 | [01-mvp](01-mvp/) | Build the smallest product | [what-is-mvp](01-mvp/what-is-mvp.md) |
 | [02-vibecode](02-vibecode/) | AI coding + prompts | [vibecode](02-vibecode/vibecode.md) |
 | [03-testing](03-testing/) | Closed testing + feedback | [android](03-testing/android.md) |
-| [04-launch](04-launch/) | Store listing + ASO | [launch](04-launch/launch.md) |
-| [05-marketing](05-marketing/) | Instagram + community posts | [instagram](05-marketing/instagram.md) |
-| [07-growth](07-growth/) | Problem? → what we tried → did it work? | [README](07-growth/README.md) |
+| [04-launch](04-launch/) | Store listing, ASO + what to expect on launch day | [launch](04-launch/launch.md) |
+| [05-marketing](05-marketing/) | Instagram, DMs, link tracking + community posts | [instagram](05-marketing/instagram.md) |
+| [07-growth](07-growth/) | Fix what breaks after launch | [README](07-growth/README.md) |
+
+---
+
+## What's inside
+
+This isn't a blog post. It's a reference you come back to when something breaks.
+
+- **Launch spike then crash?** → [launch-spike](07-growth/launch-spike.md)
+- **Instagram followers but zero installs?** → [instagram-not-converting](07-growth/instagram-not-converting.md)
+- **Need reviews fast?** → [need-reviews](07-growth/need-reviews.md)
+- **Which links actually convert?** → [link-tracking](07-growth/link-tracking.md)
+- **Reddit as a growth channel** → [reddit](07-growth/reddit.md)
+- **Thinking about rebranding?** → [rebranding](07-growth/rebranding.md)
 
 ---
 
